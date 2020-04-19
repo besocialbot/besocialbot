@@ -1,0 +1,27 @@
+2020-02-27 10:51:59,378 - instabot version: 0.110.0 (bot) - INFO - Instabot version: 0.110.0 Started
+2020-02-27 10:51:59,378 - instabot version: 0.110.0 (bot) - DEBUG - Bot imported from /Users/niels/Documents/instabot/examples/../instabot/bot/bot.pyc
+2020-02-27 10:51:59,381 - instabot version: 0.110.0 (api_login) - DEBUG - Loading cookies
+2020-02-27 10:51:59,381 - instabot version: 0.110.0 (api_login) - DEBUG - Loading uuids
+2020-02-27 10:51:59,381 - instabot version: 0.110.0 (api_login) - INFO - Recovery from /Users/niels/Documents/instabot/examples/config/nielzdronepilot_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 117.0.0.28.123 Android (28/9.0; 420dpi; 1080x1920; OnePlus; ONEPLUS A3003; OnePlus3; qcom; en_US; 180322800)
+- phone_id=c8c2b3ac-a76b-49d4-af1b-43b1a8cfa590
+- uuid=5a1fcf66-0241-4333-9879-9edd7469b06f
+- client_session_id=220b0f9e-e570-4956-956d-3d096bbf63ba
+- device_id=android-de3955d33540d9b9
+2020-02-27 10:51:59,381 - instabot version: 0.110.0 (api_login) - INFO - LOGIN FLOW! Just logged-in: False
+2020-02-27 10:52:03,807 - instabot version: 0.110.0 (api) - DEBUG - POST to endpoint: feed/timeline/ returned response: <Response [200]>
+2020-02-27 10:52:06,308 - instabot version: 0.110.0 (api) - DEBUG - POST to endpoint: feed/reels_tray/ returned response: <Response [200]>
+2020-02-27 10:52:09,314 - instabot version: 0.110.0 (api) - DEBUG - POST to endpoint: direct_v2/ranked_recipients/ returned response: <Response [200]>
+2020-02-27 10:52:12,174 - instabot version: 0.110.0 (api) - DEBUG - POST to endpoint: direct_v2/ranked_recipients/ returned response: <Response [200]>
+2020-02-27 10:52:15,503 - instabot version: 0.110.0 (api) - DEBUG - POST to endpoint: direct_v2/inbox/ returned response: <Response [200]>
+2020-02-27 10:52:18,348 - instabot version: 0.110.0 (api) - DEBUG - GET to endpoint: direct_v2/get_presence/ returned response: <Response [200]>
+2020-02-27 10:52:22,043 - instabot version: 0.110.0 (api) - DEBUG - GET to endpoint: news/inbox/?limited_activity=true&show_su=true returned response: <Response [200]>
+2020-02-27 10:52:23,904 - instabot version: 0.110.0 (api) - DEBUG - GET to endpoint: users/profile_notice/ returned response: <Response [200]>
+2020-02-27 10:52:27,007 - instabot version: 0.110.0 (api) - DEBUG - POST to endpoint: discover/explore/ returned response: <Response [200]>
+2020-02-27 10:52:29,726 - instabot version: 0.110.0 (api) - DEBUG - POST to endpoint: qe/sync/ returned response: <Response [200]>
+2020-02-27 10:52:32,830 - instabot version: 0.110.0 (api) - DEBUG - POST to endpoint: qe/sync/ returned response: <Response [200]>
+2020-02-27 10:52:32,831 - instabot version: 0.110.0 (api) - INFO - Logged-in successfully as 'nielzdronepilot'!
+2020-02-27 10:52:32,832 - instabot version: 0.110.0 (bot_checkpoint) - DEBUG - Loading Checkpoint file from: /Users/niels/Documents/instabot/examples/config/nielzdronepilot.checkpoint
+2020-02-27 10:52:32,833 - instabot version: 0.110.0 (bot_like) - INFO - Going to like media with hashtag #dronevlieger.
+2020-02-27 10:52:36,221 - instabot version: 0.110.0 (bot_checkpoint) - DEBUG - Saving Checkpoint file to: /Users/niels/Documents/instabot/examples/config/nielzdronepilot.checkpoint
+2020-02-27 10:52:36,221 - instabot version: 0.110.0 (bot) - INFO - Total requests: 12

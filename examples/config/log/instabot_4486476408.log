@@ -1,0 +1,18 @@
+2020-03-07 14:50:25,275 - instabot version: 0.113.0 (bot) - INFO - Instabot version: 0.113.0 Started
+2020-03-07 14:50:25,275 - instabot version: 0.113.0 (bot) - DEBUG - Bot imported from /Users/niels/Documents/instabot/examples/../instabot/bot/bot.py
+2020-03-07 14:50:25,637 - instabot version: 0.113.0 (api_login) - INFO - Not yet logged in starting: PRE-LOGIN FLOW!
+2020-03-07 14:50:25,936 - instabot version: 0.113.0 (api) - DEBUG - POST to endpoint: accounts/contact_point_prefill/ returned response: <Response [200]>
+2020-03-07 14:50:26,185 - instabot version: 0.113.0 (api) - DEBUG - POST to endpoint: qe/sync/ returned response: <Response [200]>
+2020-03-07 14:50:26,443 - instabot version: 0.113.0 (api) - DEBUG - POST to endpoint: launcher/sync/ returned response: <Response [200]>
+2020-03-07 14:50:26,683 - instabot version: 0.113.0 (api) - DEBUG - POST to endpoint: accounts/get_prefill_candidates/ returned response: <Response [200]>
+2020-03-07 14:50:28,010 - instabot version: 0.113.0 (api) - DEBUG - POST to endpoint: accounts/login/ returned response: <Response [200]>
+2020-03-07 14:50:28,010 - instabot version: 0.113.0 (api) - INFO - Logged-in successfully as 'nielzdronepilot'!
+2020-03-07 14:50:28,010 - instabot version: 0.113.0 (api_login) - INFO - LOGIN FLOW! Just logged-in: True
+2020-03-07 14:50:28,304 - instabot version: 0.113.0 (api) - DEBUG - POST to endpoint: launcher/sync/ returned response: <Response [200]>
+2020-03-07 14:50:28,597 - instabot version: 0.113.0 (api) - DEBUG - POST to endpoint: launcher/sync/ returned response: <Response [200]>
+2020-03-07 14:50:28,882 - instabot version: 0.113.0 (api) - DEBUG - GET to endpoint: multiple_accounts/get_account_family/ returned response: <Response [200]>
+2020-03-07 14:50:29,179 - instabot version: 0.113.0 (api) - DEBUG - GET to endpoint: zr/token/result/?device_id=android-de3955d33540d9b9&token_hash=&custom_device_id=a03de9c8-0d2b-43f0-aeec-ab6b8f1c8e80&fetch_reason=token_expired returned response: <Response [200]>
+2020-03-07 14:50:29,659 - instabot version: 0.113.0 (api) - DEBUG - POST to endpoint: qe/sync/ returned response: <Response [200]>
+2020-03-07 14:50:29,970 - instabot version: 0.113.0 (api) - DEBUG - GET to endpoint: banyan/banyan/?views=["story_share_sheet","threads_people_picker","group_stories_share_sheet","reshare_share_sheet"] returned response: <Response [200]>
+2020-03-07 14:50:30,248 - instabot version: 0.113.0 (api) - DEBUG - POST to endpoint: creatives/ar_class/ returned response: <Response [200]>
+2020-03-07 14:50:31,005 - instabot version: 0.113.0 (api) - DEBUG - POST to endpoint: feed/reels_tray/ returned response: <Response [200]>

@@ -1,0 +1,81 @@
+2020-02-29 11:11:12,312 - instabot version: 0.110.0 (bot) - INFO - Instabot version: 0.110.0 Started
+2020-02-29 11:11:12,312 - instabot version: 0.110.0 (bot) - DEBUG - Bot imported from /Users/niels/Documents/instabot/examples/../instabot/bot/bot.py
+2020-02-29 11:11:13,509 - instabot version: 0.110.0 (api_login) - DEBUG - Loading cookies
+2020-02-29 11:11:13,509 - instabot version: 0.110.0 (api_login) - DEBUG - Loading uuids
+2020-02-29 11:11:13,510 - instabot version: 0.110.0 (api_login) - INFO - Recovery from /Users/niels/Documents/instabot/examples/config/nielzdronepilot_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 117.0.0.28.123 Android (28/9.0; 420dpi; 1080x1920; OnePlus; ONEPLUS A3003; OnePlus3; qcom; en_US; 180322800)
+- phone_id=78eb8538-9b5d-45cb-b618-7dc92d9f4e75
+- uuid=477916f9-c9f8-4d73-a78b-f1c140bc9c30
+- client_session_id=e98b700b-114f-4dfc-a7a2-6916bacb5dcb
+- device_id=android-de3955d33540d9b9
+2020-02-29 11:11:13,510 - instabot version: 0.110.0 (api_login) - INFO - LOGIN FLOW! Just logged-in: False
+2020-02-29 11:11:14,493 - instabot version: 0.110.0 (api) - DEBUG - POST to endpoint: feed/timeline/ returned response: <Response [403]>
+2020-02-29 11:11:14,493 - instabot version: 0.110.0 (api) - DEBUG - Responsecode indicates error; response content: {"message": "user_has_logged_out", "logout_reason": 9, "status": "fail"}
+2020-02-29 11:11:14,493 - instabot version: 0.110.0 (api) - ERROR - Request returns 403 error!
+2020-02-29 11:11:15,421 - instabot version: 0.110.0 (api) - DEBUG - POST to endpoint: feed/reels_tray/ returned response: <Response [403]>
+2020-02-29 11:11:15,421 - instabot version: 0.110.0 (api) - DEBUG - Responsecode indicates error; response content: {"message": "user_has_logged_out", "logout_reason": 9, "status": "fail"}
+2020-02-29 11:11:15,421 - instabot version: 0.110.0 (api) - ERROR - Request returns 403 error!
+2020-02-29 11:11:15,422 - instabot version: 0.110.0 (api) - INFO - Login flow failed, the cookie is broken. Relogin again.
+2020-02-29 11:11:15,422 - instabot version: 0.110.0 (api_login) - DEBUG - Loading cookies
+2020-02-29 11:11:15,423 - instabot version: 0.110.0 (api_login) - DEBUG - Loading uuids
+2020-02-29 11:11:15,423 - instabot version: 0.110.0 (api_login) - INFO - Recovery from /Users/niels/Documents/instabot/examples/config/nielzdronepilot_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 117.0.0.28.123 Android (28/9.0; 420dpi; 1080x1920; OnePlus; ONEPLUS A3003; OnePlus3; qcom; en_US; 180322800)
+- phone_id=78eb8538-9b5d-45cb-b618-7dc92d9f4e75
+- uuid=477916f9-c9f8-4d73-a78b-f1c140bc9c30
+- client_session_id=e98b700b-114f-4dfc-a7a2-6916bacb5dcb
+- device_id=android-de3955d33540d9b9
+2020-02-29 11:11:15,423 - instabot version: 0.110.0 (api_login) - INFO - Not yet logged in starting: PRE-LOGIN FLOW!
+2020-02-29 11:11:16,321 - instabot version: 0.110.0 (api) - DEBUG - POST to endpoint: accounts/get_prefill_candidates/ returned response: <Response [200]>
+2020-02-29 11:11:17,472 - instabot version: 0.110.0 (api) - DEBUG - POST to endpoint: qe/sync/ returned response: <Response [200]>
+2020-02-29 11:11:18,376 - instabot version: 0.110.0 (api) - DEBUG - POST to endpoint: launcher/sync/ returned response: <Response [200]>
+2020-02-29 11:11:19,495 - instabot version: 0.110.0 (api) - DEBUG - POST to endpoint: accounts/contact_point_prefill/ returned response: <Response [200]>
+2020-02-29 11:11:21,658 - instabot version: 0.110.0 (api) - DEBUG - POST to endpoint: accounts/login/ returned response: <Response [200]>
+2020-02-29 11:11:21,658 - instabot version: 0.110.0 (api) - INFO - Logged-in successfully as 'nielzdronepilot'!
+2020-02-29 11:11:21,658 - instabot version: 0.110.0 (api_login) - INFO - LOGIN FLOW! Just logged-in: True
+2020-02-29 11:11:22,814 - instabot version: 0.110.0 (api) - DEBUG - POST to endpoint: qe/sync/ returned response: <Response [200]>
+2020-02-29 11:11:23,685 - instabot version: 0.110.0 (api) - DEBUG - POST to endpoint: launcher/sync/ returned response: <Response [200]>
+2020-02-29 11:11:24,552 - instabot version: 0.110.0 (api) - DEBUG - GET to endpoint: zr/token/result/?device_id=android-de3955d33540d9b9&token_hash=&custom_device_id=android-de3955d33540d9b9&fetch_reason=token_expired returned response: <Response [200]>
+2020-02-29 11:11:25,429 - instabot version: 0.110.0 (api) - DEBUG - GET to endpoint: multiple_accounts/get_account_family/ returned response: <Response [200]>
+2020-02-29 11:11:26,572 - instabot version: 0.110.0 (api) - DEBUG - POST to endpoint: qe/sync/ returned response: <Response [200]>
+2020-02-29 11:11:28,549 - instabot version: 0.110.0 (api) - DEBUG - GET to endpoint: igtv/browse_feed/?prefetch=1 returned response: <Response [200]>
+2020-02-29 11:11:29,440 - instabot version: 0.110.0 (api) - DEBUG - POST to endpoint: creatives/ar_class/ returned response: <Response [200]>
+2020-02-29 11:11:30,731 - instabot version: 0.110.0 (api) - DEBUG - POST to endpoint: feed/reels_tray/ returned response: <Response [200]>
+2020-02-29 11:11:32,858 - instabot version: 0.110.0 (api) - DEBUG - POST to endpoint: feed/timeline/ returned response: <Response [200]>
+2020-02-29 11:11:33,761 - instabot version: 0.110.0 (api) - DEBUG - GET to endpoint: media/blocked/ returned response: <Response [200]>
+2020-02-29 11:11:35,944 - instabot version: 0.110.0 (api) - DEBUG - GET to endpoint: news/inbox/ returned response: <Response [200]>
+2020-02-29 11:11:36,848 - instabot version: 0.110.0 (api) - DEBUG - GET to endpoint: loom/fetch_config/ returned response: <Response [200]>
+2020-02-29 11:11:38,527 - instabot version: 0.110.0 (api) - DEBUG - GET to endpoint: scores/bootstrap/users/?surfaces=["autocomplete_user_list","coefficient_besties_list_ranking","coefficient_rank_recipient_user_suggestion","coefficient_ios_section_test_bootstrap_ranking","coefficient_direct_recipients_ranking_variant_2"] returned response: <Response [200]>
+2020-02-29 11:11:39,426 - instabot version: 0.110.0 (api) - DEBUG - GET to endpoint: business/eligibility/get_monetization_products_eligibility_data/?product_types=branded_content returned response: <Response [200]>
+2020-02-29 11:11:40,317 - instabot version: 0.110.0 (api) - DEBUG - GET to endpoint: business/branded_content/should_require_professional_account/ returned response: <Response [200]>
+2020-02-29 11:11:41,336 - instabot version: 0.110.0 (api) - DEBUG - GET to endpoint: linked_accounts/get_linkage_status/ returned response: <Response [200]>
+2020-02-29 11:11:42,236 - instabot version: 0.110.0 (api) - DEBUG - GET to endpoint: locations/request_country/ returned response: <Response [200]>
+2020-02-29 11:11:43,131 - instabot version: 0.110.0 (api) - DEBUG - GET to endpoint: qp/get_cooldowns/?signed_body=signed_body=4b9c516a5410a3bc128e09c6104a7f042146b9c2023870560c63a43a7f66781c.4&ig_sig_key_version=4&ig_sig_key_version=4 returned response: <Response [200]>
+2020-02-29 11:11:44,007 - instabot version: 0.110.0 (api) - DEBUG - GET to endpoint: users/arlink_download_info/?version_override=2.2.1 returned response: <Response [200]>
+2020-02-29 11:11:45,054 - instabot version: 0.110.0 (api) - DEBUG - GET to endpoint: users/3149016955/info/ returned response: <Response [200]>
+2020-02-29 11:11:45,983 - instabot version: 0.110.0 (api) - DEBUG - GET to endpoint: direct_v2/get_presence/ returned response: <Response [200]>
+2020-02-29 11:11:47,528 - instabot version: 0.110.0 (api) - DEBUG - GET to endpoint: direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20 returned response: <Response [200]>
+2020-02-29 11:11:48,447 - instabot version: 0.110.0 (api) - DEBUG - GET to endpoint: direct_v2/inbox/?visual_message_return_type=unseen&persistentBadging=true&limit=0 returned response: <Response [200]>
+2020-02-29 11:11:49,396 - instabot version: 0.110.0 (api) - DEBUG - GET to endpoint: discover/topical_explore/?is_prefetch=true&omit_cover_media=true&use_sectional_payload=true&timezone_offset=0&session_id=e98b700b-114f-4dfc-a7a2-6916bacb5dcb&include_fixed_destinations=true returned response: <Response [200]>
+2020-02-29 11:11:50,270 - instabot version: 0.110.0 (api) - DEBUG - POST to endpoint: notifications/badge/ returned response: <Response [200]>
+2020-02-29 11:11:51,523 - instabot version: 0.110.0 (api) - DEBUG - POST to endpoint: qp/batch_fetch/ returned response: <Response [200]>
+2020-02-29 11:11:51,524 - instabot version: 0.110.0 (bot_checkpoint) - DEBUG - Loading Checkpoint file from: /Users/niels/Documents/instabot/examples/config/nielzdronepilot.checkpoint
+2020-02-29 11:12:02,560 - instabot version: 0.110.0 (bot_unfollow) - INFO - Unfollowing non-followers.
+2020-02-29 11:12:03,598 - instabot version: 0.110.0 (api) - DEBUG - GET to endpoint: users/3149016955/info/ returned response: <Response [200]>
+2020-02-29 11:12:04,711 - instabot version: 0.110.0 (api) - DEBUG - GET to endpoint: friendships/3149016955/following/?max_id=&ig_sig_key_version=4&rank_token=3149016955_477916f9-c9f8-4d73-a78b-f1c140bc9c30 returned response: <Response [200]>
+2020-02-29 11:12:05,724 - instabot version: 0.110.0 (api) - DEBUG - GET to endpoint: users/3149016955/info/ returned response: <Response [200]>
+2020-02-29 11:12:06,720 - instabot version: 0.110.0 (api) - DEBUG - GET to endpoint: friendships/3149016955/followers/?rank_token=3149016955_477916f9-c9f8-4d73-a78b-f1c140bc9c30 returned response: <Response [200]>
+2020-02-29 11:12:07,746 - instabot version: 0.110.0 (api) - DEBUG - GET to endpoint: users/330587883/info/ returned response: <Response [200]>
+2020-02-29 11:12:07,747 - instabot version: 0.110.0 (bot_unfollow) - INFO - Going to unfollow `user_id` 330587883 with username landonorris.
+2020-02-29 11:12:09,916 - instabot version: 0.110.0 (api) - DEBUG - POST to endpoint: friendships/destroy/330587883/ returned response: <Response [200]>
+2020-02-29 11:12:09,916 - instabot version: 0.110.0 (bot_unfollow) - INFO - Unfollowed `user_id` 330587883 with username landonorris
+2020-02-29 11:12:11,313 - instabot version: 0.110.0 (api) - DEBUG - GET to endpoint: users/4350297470/info/ returned response: <Response [200]>
+2020-02-29 11:12:11,314 - instabot version: 0.110.0 (bot_unfollow) - INFO - Going to unfollow `user_id` 4350297470 with username fire247_.
+2020-02-29 11:12:14,298 - instabot version: 0.110.0 (api) - DEBUG - POST to endpoint: friendships/destroy/4350297470/ returned response: <Response [200]>
+2020-02-29 11:12:14,298 - instabot version: 0.110.0 (bot_unfollow) - INFO - Unfollowed `user_id` 4350297470 with username fire247_
+2020-02-29 11:12:15,539 - instabot version: 0.110.0 (api) - DEBUG - GET to endpoint: users/4732320253/info/ returned response: <Response [200]>
+2020-02-29 11:12:15,539 - instabot version: 0.110.0 (bot_unfollow) - INFO - Going to unfollow `user_id` 4732320253 with username captcha_amsterdam.
+2020-02-29 11:12:20,529 - instabot version: 0.110.0 (api) - DEBUG - POST to endpoint: friendships/destroy/4732320253/ returned response: <Response [200]>
+2020-02-29 11:12:20,530 - instabot version: 0.110.0 (bot_unfollow) - INFO - Unfollowed `user_id` 4732320253 with username captcha_amsterdam
+2020-02-29 11:12:21,206 - instabot version: 0.110.0 (bot_checkpoint) - DEBUG - Saving Checkpoint file to: /Users/niels/Documents/instabot/examples/config/nielzdronepilot.checkpoint
+2020-02-29 11:12:21,207 - instabot version: 0.110.0 (bot) - INFO - Total unfollows: 3/50
+2020-02-29 11:12:21,207 - instabot version: 0.110.0 (bot) - INFO - Total requests: 43

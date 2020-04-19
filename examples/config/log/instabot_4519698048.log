@@ -1,0 +1,14 @@
+2020-03-07 14:41:48,607 - instabot version: 0.113.0 (bot) - INFO - Instabot version: 0.113.0 Started
+2020-03-07 14:41:48,607 - instabot version: 0.113.0 (bot) - DEBUG - Bot imported from /Users/niels/Documents/instabot/examples/../instabot/bot/bot.py
+2020-03-07 14:41:49,096 - instabot version: 0.113.0 (api_login) - INFO - Not yet logged in starting: PRE-LOGIN FLOW!
+2020-03-07 14:41:49,618 - instabot version: 0.113.0 (api) - DEBUG - POST to endpoint: accounts/contact_point_prefill/ returned response: <Response [200]>
+2020-03-07 14:41:50,231 - instabot version: 0.113.0 (api) - DEBUG - POST to endpoint: qe/sync/ returned response: <Response [200]>
+2020-03-07 14:41:50,786 - instabot version: 0.113.0 (api) - DEBUG - POST to endpoint: launcher/sync/ returned response: <Response [200]>
+2020-03-07 14:41:51,314 - instabot version: 0.113.0 (api) - DEBUG - POST to endpoint: accounts/get_prefill_candidates/ returned response: <Response [200]>
+2020-03-07 14:41:53,067 - instabot version: 0.113.0 (api) - DEBUG - POST to endpoint: accounts/login/ returned response: <Response [200]>
+2020-03-07 14:41:53,067 - instabot version: 0.113.0 (api) - INFO - Logged-in successfully as 'nielzdronepilot'!
+2020-03-07 14:41:53,067 - instabot version: 0.113.0 (api_login) - INFO - LOGIN FLOW! Just logged-in: True
+2020-03-07 14:41:53,616 - instabot version: 0.113.0 (api) - DEBUG - POST to endpoint: launcher/sync/ returned response: <Response [200]>
+2020-03-07 14:41:54,190 - instabot version: 0.113.0 (api) - DEBUG - POST to endpoint: launcher/sync/ returned response: <Response [200]>
+2020-03-07 14:41:54,794 - instabot version: 0.113.0 (api) - DEBUG - GET to endpoint: multiple_accounts/get_account_family/ returned response: <Response [200]>
+2020-03-07 14:41:55,344 - instabot version: 0.113.0 (api) - DEBUG - GET to endpoint: zr/token/result/?device_id=android-de3955d33540d9b9&token_hash=&custom_device_id=1e102401-eb0f-4d44-9f48-a85dc369a866&fetch_reason=token_expired returned response: <Response [200]>

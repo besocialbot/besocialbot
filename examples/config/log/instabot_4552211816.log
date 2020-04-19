@@ -1,0 +1,14 @@
+2020-03-07 14:36:56,066 - instabot version: 0.113.0 (bot) - INFO - Instabot version: 0.113.0 Started
+2020-03-07 14:36:56,066 - instabot version: 0.113.0 (bot) - DEBUG - Bot imported from /Users/niels/Documents/instabot/examples/../instabot/bot/bot.py
+2020-03-07 14:36:56,623 - instabot version: 0.113.0 (api_login) - INFO - Not yet logged in starting: PRE-LOGIN FLOW!
+2020-03-07 14:36:57,243 - instabot version: 0.113.0 (api) - DEBUG - POST to endpoint: accounts/contact_point_prefill/ returned response: <Response [200]>
+2020-03-07 14:36:57,858 - instabot version: 0.113.0 (api) - DEBUG - POST to endpoint: qe/sync/ returned response: <Response [200]>
+2020-03-07 14:36:58,408 - instabot version: 0.113.0 (api) - DEBUG - POST to endpoint: launcher/sync/ returned response: <Response [200]>
+2020-03-07 14:36:58,960 - instabot version: 0.113.0 (api) - DEBUG - POST to endpoint: accounts/get_prefill_candidates/ returned response: <Response [200]>
+2020-03-07 14:37:00,633 - instabot version: 0.113.0 (api) - DEBUG - POST to endpoint: accounts/login/ returned response: <Response [200]>
+2020-03-07 14:37:00,633 - instabot version: 0.113.0 (api) - INFO - Logged-in successfully as 'nielzdronepilot'!
+2020-03-07 14:37:00,633 - instabot version: 0.113.0 (api_login) - INFO - LOGIN FLOW! Just logged-in: True
+2020-03-07 14:37:01,229 - instabot version: 0.113.0 (api) - DEBUG - POST to endpoint: launcher/sync/ returned response: <Response [200]>
+2020-03-07 14:37:01,902 - instabot version: 0.113.0 (api) - DEBUG - POST to endpoint: qe/sync/ returned response: <Response [200]>
+2020-03-07 14:37:02,650 - instabot version: 0.113.0 (api) - DEBUG - POST to endpoint: launcher/sync/ returned response: <Response [200]>
+2020-03-07 14:37:03,194 - instabot version: 0.113.0 (api) - DEBUG - GET to endpoint: multiple_accounts/get_account_family/ returned response: <Response [200]>

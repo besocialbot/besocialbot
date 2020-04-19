@@ -1,0 +1,35 @@
+2020-03-07 15:25:02,587 - instabot version: 0.113.0 (bot) - INFO - Instabot version: 0.113.0 Started
+2020-03-07 15:25:02,587 - instabot version: 0.113.0 (bot) - DEBUG - Bot imported from /Users/niels/Documents/instabot/examples/../instabot/bot/bot.py
+2020-03-07 15:25:03,056 - instabot version: 0.113.0 (api_login) - INFO - Not yet logged in starting: PRE-LOGIN FLOW!
+2020-03-07 15:25:03,322 - instabot version: 0.113.0 (api) - DEBUG - POST to endpoint: accounts/contact_point_prefill/ returned response: <Response [200]>
+2020-03-07 15:25:03,571 - instabot version: 0.113.0 (api) - DEBUG - POST to endpoint: qe/sync/ returned response: <Response [200]>
+2020-03-07 15:25:03,833 - instabot version: 0.113.0 (api) - DEBUG - POST to endpoint: launcher/sync/ returned response: <Response [200]>
+2020-03-07 15:25:04,075 - instabot version: 0.113.0 (api) - DEBUG - POST to endpoint: accounts/get_prefill_candidates/ returned response: <Response [200]>
+2020-03-07 15:25:05,435 - instabot version: 0.113.0 (api) - DEBUG - POST to endpoint: accounts/login/ returned response: <Response [200]>
+2020-03-07 15:25:05,435 - instabot version: 0.113.0 (api) - INFO - Logged-in successfully as 'nielzdronepilot'!
+2020-03-07 15:25:05,436 - instabot version: 0.113.0 (api_login) - INFO - LOGIN FLOW! Just logged-in: True
+2020-03-07 15:25:05,737 - instabot version: 0.113.0 (api) - DEBUG - POST to endpoint: launcher/sync/ returned response: <Response [200]>
+2020-03-07 15:25:06,024 - instabot version: 0.113.0 (api) - DEBUG - GET to endpoint: multiple_accounts/get_account_family/ returned response: <Response [200]>
+2020-03-07 15:25:06,291 - instabot version: 0.113.0 (api) - DEBUG - GET to endpoint: zr/token/result/?device_id=android-de3955d33540d9b9&token_hash=&custom_device_id=a63f7b42-bc1f-41e2-a654-1f092c3f84b1&fetch_reason=token_expired returned response: <Response [200]>
+2020-03-07 15:25:06,734 - instabot version: 0.113.0 (api) - DEBUG - POST to endpoint: qe/sync/ returned response: <Response [200]>
+2020-03-07 15:25:07,010 - instabot version: 0.113.0 (api) - DEBUG - GET to endpoint: banyan/banyan/?views=["story_share_sheet","threads_people_picker","group_stories_share_sheet","reshare_share_sheet"] returned response: <Response [200]>
+2020-03-07 15:25:07,312 - instabot version: 0.113.0 (api) - DEBUG - POST to endpoint: creatives/ar_class/ returned response: <Response [200]>
+2020-03-07 15:25:07,915 - instabot version: 0.113.0 (api) - DEBUG - POST to endpoint: feed/reels_tray/ returned response: <Response [200]>
+2020-03-07 15:25:09,687 - instabot version: 0.113.0 (api) - DEBUG - POST to endpoint: feed/timeline/ returned response: <Response [200]>
+2020-03-07 15:25:10,206 - instabot version: 0.113.0 (api) - DEBUG - POST to endpoint: push/register/ returned response: <Response [200]>
+2020-03-07 15:25:10,533 - instabot version: 0.113.0 (api) - DEBUG - GET to endpoint: media/blocked/ returned response: <Response [200]>
+2020-03-07 15:25:10,832 - instabot version: 0.113.0 (api) - DEBUG - GET to endpoint: loom/fetch_config/ returned response: <Response [200]>
+2020-03-07 15:25:11,724 - instabot version: 0.113.0 (api) - DEBUG - GET to endpoint: news/inbox/ returned response: <Response [200]>
+2020-03-07 15:25:11,991 - instabot version: 0.113.0 (api) - DEBUG - GET to endpoint: business/branded_content/should_require_professional_account/ returned response: <Response [200]>
+2020-03-07 15:25:13,905 - instabot version: 0.113.0 (api) - DEBUG - GET to endpoint: scores/bootstrap/users/?surfaces=["autocomplete_user_list","coefficient_besties_list_ranking","coefficient_rank_recipient_user_suggestion","coefficient_ios_section_test_bootstrap_ranking","coefficient_direct_recipients_ranking_variant_2"] returned response: <Response [200]>
+2020-03-07 15:25:14,195 - instabot version: 0.113.0 (api) - DEBUG - GET to endpoint: business/eligibility/get_monetization_products_eligibility_data/?product_types=branded_content returned response: <Response [200]>
+2020-03-07 15:25:14,489 - instabot version: 0.113.0 (api) - DEBUG - GET to endpoint: linked_accounts/get_linkage_status/ returned response: <Response [200]>
+2020-03-07 15:25:14,755 - instabot version: 0.113.0 (api) - DEBUG - GET to endpoint: qp/get_cooldowns/?signed_body=7263dc0e7fba056da698c7021680afda4cf226fba73ae3aa14290eec84f18438.4&ig_sig_key_version=4 returned response: <Response [200]>
+2020-03-07 15:25:15,034 - instabot version: 0.113.0 (api) - DEBUG - POST to endpoint: push/register/ returned response: <Response [200]>
+2020-03-07 15:25:15,328 - instabot version: 0.113.0 (api) - DEBUG - GET to endpoint: users/arlink_download_info/?version_override=2.2.1 returned response: <Response [200]>
+2020-03-07 15:25:15,860 - instabot version: 0.113.0 (api) - DEBUG - GET to endpoint: users/3149016955/info/ returned response: <Response [200]>
+2020-03-07 15:25:16,194 - instabot version: 0.113.0 (api) - DEBUG - POST to endpoint: attribution/log_resurrect_attribution/ returned response: <Response [400]>
+2020-03-07 15:25:16,194 - instabot version: 0.113.0 (api) - DEBUG - Responsecode indicates error; response content: b'{"message": "missing param", "status": "fail"}'
+2020-03-07 15:25:16,194 - instabot version: 0.113.0 (api) - ERROR - Request returns 400 error!
+2020-03-07 15:25:16,194 - instabot version: 0.113.0 (api) - INFO - Instagram's error message: missing param
+2020-03-07 15:25:16,195 - instabot version: 0.113.0 (api) - INFO - Instagram's error message: {}

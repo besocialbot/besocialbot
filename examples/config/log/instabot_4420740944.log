@@ -1,0 +1,6 @@
+2020-02-29 10:54:38,962 - instabot version: 0.110.0 (bot) - INFO - Instabot version: 0.110.0 Started
+2020-02-29 10:54:38,962 - instabot version: 0.110.0 (bot) - DEBUG - Bot imported from /Users/niels/Documents/instabot/examples/../instabot/bot/bot.pyc
+2020-02-29 10:54:39,889 - instabot version: 0.110.0 (api_login) - INFO - Not yet logged in starting: PRE-LOGIN FLOW!
+2020-02-29 10:54:41,244 - instabot version: 0.110.0 (api) - DEBUG - POST to endpoint: qe/sync/ returned response: <Response [200]>
+2020-02-29 10:54:42,466 - instabot version: 0.110.0 (api) - DEBUG - POST to endpoint: accounts/contact_point_prefill/ returned response: <Response [200]>
+2020-02-29 10:54:43,701 - instabot version: 0.110.0 (api) - DEBUG - POST to endpoint: launcher/sync/ returned response: <Response [200]>

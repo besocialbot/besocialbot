@@ -1,0 +1,142 @@
+2020-02-21 23:31:51,738 - instabot version: 0.107.0 (bot) - INFO - Instabot version: 0.107.0 Started
+2020-02-21 23:31:51,739 - instabot version: 0.107.0 (api_login) - INFO - PRE-LOGIN FLOW!... 
+2020-02-21 23:32:02,314 - instabot version: 0.107.0 (api) - INFO - Logged-in successfully as 'nielzdronepilot'!
+2020-02-21 23:32:02,314 - instabot version: 0.107.0 (api_login) - INFO - LOGIN FLOW! Just logged-in: True
+2020-02-21 23:32:40,667 - instabot version: 0.107.0 (bot_like) - INFO - Like followers of: dronevlieger.
+2020-02-21 23:40:04,657 - instabot version: 0.107.0 (bot_like) - INFO - Liking user_1956805109's feed:
+2020-02-21 23:40:06,172 - instabot version: 0.107.0 (bot_filter) - INFO - Received 6 medias.
+2020-02-21 23:40:06,172 - instabot version: 0.107.0 (bot_filter) - INFO - After filtration 0 medias left.
+2020-02-21 23:40:06,172 - instabot version: 0.107.0 (bot_like) - INFO - None medias received: account is closed or medias have been filtered.
+2020-02-21 23:40:10,044 - instabot version: 0.107.0 (bot_like) - INFO - Liking user_239969948's feed:
+2020-02-21 23:40:12,813 - instabot version: 0.107.0 (bot_filter) - INFO - Received 18 medias.
+2020-02-21 23:40:12,813 - instabot version: 0.107.0 (bot_filter) - INFO - After filtration 2 medias left.
+2020-02-21 23:40:12,813 - instabot version: 0.107.0 (bot_like) - INFO - Going to like 2 medias.
+2020-02-21 23:40:24,452 - instabot version: 0.107.0 (bot_like) - INFO - Liked media 2227844953719220527_239969948.
+2020-02-21 23:44:11,675 - instabot version: 0.107.0 (bot_like) - INFO - Liked media 2147340165912245060_239969948.
+2020-02-21 23:44:11,676 - instabot version: 0.107.0 (bot_like) - INFO - DONE: Total liked 2 medias.
+2020-02-21 23:44:44,240 - instabot version: 0.107.0 (bot_like) - INFO - Liking user_1822255727's feed:
+2020-02-21 23:44:47,159 - instabot version: 0.107.0 (bot_filter) - INFO - Received 18 medias.
+2020-02-21 23:44:47,159 - instabot version: 0.107.0 (bot_filter) - INFO - After filtration 1 medias left.
+2020-02-21 23:44:47,159 - instabot version: 0.107.0 (bot_like) - INFO - Going to like 1 medias.
+2020-02-21 23:50:01,649 - instabot version: 0.107.0 (bot_like) - INFO - Liked media 1786902425815523736_1822255727.
+2020-02-21 23:50:01,656 - instabot version: 0.107.0 (bot_like) - INFO - DONE: Total liked 3 medias.
+2020-02-21 23:50:07,235 - instabot version: 0.107.0 (bot_like) - INFO - Liking user_38397742's feed:
+2020-02-21 23:50:09,969 - instabot version: 0.107.0 (bot_filter) - INFO - Received 18 medias.
+2020-02-21 23:50:09,969 - instabot version: 0.107.0 (bot_filter) - INFO - After filtration 0 medias left.
+2020-02-21 23:50:09,969 - instabot version: 0.107.0 (bot_like) - INFO - None medias received: account is closed or medias have been filtered.
+2020-02-21 23:50:16,741 - instabot version: 0.107.0 (bot_like) - INFO - Liking user_426090645's feed:
+2020-02-21 23:50:18,388 - instabot version: 0.107.0 (bot_filter) - INFO - Received 18 medias.
+2020-02-21 23:50:18,388 - instabot version: 0.107.0 (bot_filter) - INFO - After filtration 0 medias left.
+2020-02-21 23:50:18,388 - instabot version: 0.107.0 (bot_like) - INFO - None medias received: account is closed or medias have been filtered.
+2020-02-21 23:50:54,137 - instabot version: 0.107.0 (bot_like) - INFO - Liking user_12897995's feed:
+2020-02-21 23:50:57,593 - instabot version: 0.107.0 (bot_filter) - INFO - Received 18 medias.
+2020-02-21 23:50:57,593 - instabot version: 0.107.0 (bot_filter) - INFO - After filtration 2 medias left.
+2020-02-21 23:50:57,593 - instabot version: 0.107.0 (bot_like) - INFO - Going to like 2 medias.
+2020-02-21 23:56:26,371 - instabot version: 0.107.0 (bot_like) - INFO - Liked media 1990145987080101270_12897995.
+2020-02-22 00:01:49,837 - instabot version: 0.107.0 (bot_like) - INFO - Liked media 1961650940788861939_12897995.
+2020-02-22 00:01:49,840 - instabot version: 0.107.0 (bot_like) - INFO - DONE: Total liked 5 medias.
+2020-02-22 00:01:58,845 - instabot version: 0.107.0 (bot_like) - INFO - Liking user_212299995's feed:
+2020-02-22 00:02:01,955 - instabot version: 0.107.0 (bot_filter) - INFO - Received 18 medias.
+2020-02-22 00:02:01,955 - instabot version: 0.107.0 (bot_filter) - INFO - After filtration 2 medias left.
+2020-02-22 00:02:01,955 - instabot version: 0.107.0 (bot_like) - INFO - Going to like 2 medias.
+2020-02-22 00:05:18,073 - instabot version: 0.107.0 (bot_like) - INFO - Liked media 2247262760332660616_212299995.
+2020-02-22 00:08:35,989 - instabot version: 0.107.0 (bot_like) - INFO - Liked media 2242455113150314011_212299995.
+2020-02-22 00:08:36,006 - instabot version: 0.107.0 (bot_like) - INFO - DONE: Total liked 2 medias.
+2020-02-22 00:08:39,841 - instabot version: 0.107.0 (bot_like) - INFO - Liking user_194878633's feed:
+2020-02-22 00:08:42,667 - instabot version: 0.107.0 (bot_filter) - INFO - Received 3 medias.
+2020-02-22 00:08:42,667 - instabot version: 0.107.0 (bot_filter) - INFO - After filtration 0 medias left.
+2020-02-22 00:08:42,667 - instabot version: 0.107.0 (bot_like) - INFO - None medias received: account is closed or medias have been filtered.
+2020-02-22 00:08:49,662 - instabot version: 0.107.0 (bot_like) - INFO - Liking user_1631429486's feed:
+2020-02-22 00:08:51,210 - instabot version: 0.107.0 (bot_filter) - INFO - Received 18 medias.
+2020-02-22 00:08:51,210 - instabot version: 0.107.0 (bot_filter) - INFO - After filtration 0 medias left.
+2020-02-22 00:08:51,210 - instabot version: 0.107.0 (bot_like) - INFO - None medias received: account is closed or medias have been filtered.
+2020-02-22 00:08:55,041 - instabot version: 0.107.0 (bot_like) - INFO - Liking user_7123769's feed:
+2020-02-22 00:08:57,658 - instabot version: 0.107.0 (bot_filter) - INFO - Received 18 medias.
+2020-02-22 00:08:57,658 - instabot version: 0.107.0 (bot_filter) - INFO - After filtration 0 medias left.
+2020-02-22 00:08:57,658 - instabot version: 0.107.0 (bot_like) - INFO - None medias received: account is closed or medias have been filtered.
+2020-02-22 00:09:15,319 - instabot version: 0.107.0 (bot_like) - INFO - Liking user_1785730699's feed:
+2020-02-22 00:09:16,890 - instabot version: 0.107.0 (bot_filter) - INFO - Received 13 medias.
+2020-02-22 00:09:16,890 - instabot version: 0.107.0 (bot_filter) - INFO - After filtration 0 medias left.
+2020-02-22 00:09:16,890 - instabot version: 0.107.0 (bot_like) - INFO - None medias received: account is closed or medias have been filtered.
+2020-02-22 00:09:24,012 - instabot version: 0.107.0 (bot_like) - INFO - Liking user_7659193's feed:
+2020-02-22 00:09:26,566 - instabot version: 0.107.0 (bot_filter) - INFO - Received 18 medias.
+2020-02-22 00:09:26,566 - instabot version: 0.107.0 (bot_filter) - INFO - After filtration 1 medias left.
+2020-02-22 00:09:26,566 - instabot version: 0.107.0 (bot_like) - INFO - Going to like 1 medias.
+2020-02-22 00:11:29,695 - instabot version: 0.107.0 (bot_like) - INFO - Liked media 2238654083249780376_7659193.
+2020-02-22 00:11:29,698 - instabot version: 0.107.0 (bot_like) - INFO - DONE: Total liked 3 medias.
+2020-02-22 00:11:37,936 - instabot version: 0.107.0 (bot_like) - INFO - Liking user_1701199348's feed:
+2020-02-22 00:11:40,877 - instabot version: 0.107.0 (bot_filter) - INFO - Received 18 medias.
+2020-02-22 00:11:40,877 - instabot version: 0.107.0 (bot_filter) - INFO - After filtration 1 medias left.
+2020-02-22 00:11:40,877 - instabot version: 0.107.0 (bot_like) - INFO - Going to like 1 medias.
+2020-02-22 00:14:52,172 - instabot version: 0.107.0 (bot_like) - INFO - Liked media 1096321462303978810_1701199348.
+2020-02-22 00:14:52,189 - instabot version: 0.107.0 (bot_like) - INFO - DONE: Total liked 4 medias.
+2020-02-22 00:15:00,571 - instabot version: 0.107.0 (bot_like) - INFO - Liking user_1445176761's feed:
+2020-02-22 00:15:03,876 - instabot version: 0.107.0 (bot_filter) - INFO - Received 18 medias.
+2020-02-22 00:15:03,876 - instabot version: 0.107.0 (bot_filter) - INFO - After filtration 1 medias left.
+2020-02-22 00:15:03,877 - instabot version: 0.107.0 (bot_like) - INFO - Going to like 1 medias.
+2020-02-22 00:19:16,274 - instabot version: 0.107.0 (bot_like) - INFO - Liked media 1246803608194484846_1445176761.
+2020-02-22 00:19:16,275 - instabot version: 0.107.0 (bot_like) - INFO - DONE: Total liked 5 medias.
+2020-02-22 00:19:29,560 - instabot version: 0.107.0 (bot_like) - INFO - Liking user_539673905's feed:
+2020-02-22 00:19:32,353 - instabot version: 0.107.0 (bot_filter) - INFO - Received 18 medias.
+2020-02-22 00:19:32,353 - instabot version: 0.107.0 (bot_filter) - INFO - After filtration 0 medias left.
+2020-02-22 00:19:32,353 - instabot version: 0.107.0 (bot_like) - INFO - None medias received: account is closed or medias have been filtered.
+2020-02-22 00:19:38,087 - instabot version: 0.107.0 (bot_like) - INFO - Liking user_1366029935's feed:
+2020-02-22 00:19:40,914 - instabot version: 0.107.0 (bot_filter) - INFO - Received 18 medias.
+2020-02-22 00:19:40,914 - instabot version: 0.107.0 (bot_filter) - INFO - After filtration 0 medias left.
+2020-02-22 00:19:40,914 - instabot version: 0.107.0 (bot_like) - INFO - None medias received: account is closed or medias have been filtered.
+2020-02-22 00:19:50,529 - instabot version: 0.107.0 (bot_like) - INFO - Liking user_10537151's feed:
+2020-02-22 00:19:55,033 - instabot version: 0.107.0 (bot_filter) - INFO - Received 18 medias.
+2020-02-22 00:19:55,033 - instabot version: 0.107.0 (bot_filter) - INFO - After filtration 6 medias left.
+2020-02-22 00:19:55,033 - instabot version: 0.107.0 (bot_like) - INFO - Going to like 3 medias.
+2020-02-22 00:23:25,160 - instabot version: 0.107.0 (bot_like) - INFO - Liked media 2209197468726276575_10537151.
+2020-02-22 00:27:53,626 - instabot version: 0.107.0 (bot_like) - INFO - Liked media 2119230842665252466_10537151.
+2020-02-22 00:31:03,908 - instabot version: 0.107.0 (bot_like) - INFO - Liked media 2111809605114584037_10537151.
+2020-02-22 00:31:03,911 - instabot version: 0.107.0 (bot_like) - INFO - DONE: Total liked 8 medias.
+2020-02-22 00:31:12,554 - instabot version: 0.107.0 (bot_like) - INFO - Liking user_1480941354's feed:
+2020-02-22 00:31:14,958 - instabot version: 0.107.0 (bot_filter) - INFO - Received 18 medias.
+2020-02-22 00:31:14,958 - instabot version: 0.107.0 (bot_filter) - INFO - After filtration 0 medias left.
+2020-02-22 00:31:14,958 - instabot version: 0.107.0 (bot_like) - INFO - None medias received: account is closed or medias have been filtered.
+2020-02-22 00:31:19,337 - instabot version: 0.107.0 (bot_like) - INFO - Liking user_1692699508's feed:
+2020-02-22 00:31:22,095 - instabot version: 0.107.0 (bot_filter) - INFO - Received 6 medias.
+2020-02-22 00:31:22,095 - instabot version: 0.107.0 (bot_filter) - INFO - After filtration 0 medias left.
+2020-02-22 00:31:22,095 - instabot version: 0.107.0 (bot_like) - INFO - None medias received: account is closed or medias have been filtered.
+2020-02-22 00:31:34,914 - instabot version: 0.107.0 (bot_like) - INFO - Liking user_1381923070's feed:
+2020-02-22 00:31:37,908 - instabot version: 0.107.0 (bot_filter) - INFO - Received 18 medias.
+2020-02-22 00:31:37,908 - instabot version: 0.107.0 (bot_filter) - INFO - After filtration 0 medias left.
+2020-02-22 00:31:37,908 - instabot version: 0.107.0 (bot_like) - INFO - None medias received: account is closed or medias have been filtered.
+2020-02-22 00:31:41,578 - instabot version: 0.107.0 (bot_like) - INFO - Liking user_2114862503's feed:
+2020-02-22 00:31:43,313 - instabot version: 0.107.0 (bot_filter) - INFO - Received 6 medias.
+2020-02-22 00:31:43,313 - instabot version: 0.107.0 (bot_filter) - INFO - After filtration 0 medias left.
+2020-02-22 00:31:43,313 - instabot version: 0.107.0 (bot_like) - INFO - None medias received: account is closed or medias have been filtered.
+2020-02-22 00:31:49,060 - instabot version: 0.107.0 (bot_like) - INFO - Liking user_1526747967's feed:
+2020-02-22 00:31:50,868 - instabot version: 0.107.0 (bot_filter) - INFO - Received 14 medias.
+2020-02-22 00:31:50,868 - instabot version: 0.107.0 (bot_filter) - INFO - After filtration 0 medias left.
+2020-02-22 00:31:50,868 - instabot version: 0.107.0 (bot_like) - INFO - None medias received: account is closed or medias have been filtered.
+2020-02-22 00:31:55,294 - instabot version: 0.107.0 (bot_like) - INFO - Liking user_2068897320's feed:
+2020-02-22 00:31:58,034 - instabot version: 0.107.0 (bot_filter) - INFO - Received 6 medias.
+2020-02-22 00:31:58,034 - instabot version: 0.107.0 (bot_filter) - INFO - After filtration 0 medias left.
+2020-02-22 00:31:58,034 - instabot version: 0.107.0 (bot_like) - INFO - None medias received: account is closed or medias have been filtered.
+2020-02-22 00:32:22,036 - instabot version: 0.107.0 (bot_like) - INFO - Liking user_2008983017's feed:
+2020-02-22 00:32:23,893 - instabot version: 0.107.0 (bot_filter) - INFO - Received 13 medias.
+2020-02-22 00:32:23,893 - instabot version: 0.107.0 (bot_filter) - INFO - After filtration 0 medias left.
+2020-02-22 00:32:23,893 - instabot version: 0.107.0 (bot_like) - INFO - None medias received: account is closed or medias have been filtered.
+2020-02-22 00:32:28,329 - instabot version: 0.107.0 (bot_like) - INFO - Liking user_968120849's feed:
+2020-02-22 00:32:30,247 - instabot version: 0.107.0 (bot_filter) - INFO - Received 18 medias.
+2020-02-22 00:32:30,247 - instabot version: 0.107.0 (bot_filter) - INFO - After filtration 0 medias left.
+2020-02-22 00:32:30,247 - instabot version: 0.107.0 (bot_like) - INFO - None medias received: account is closed or medias have been filtered.
+2020-02-22 00:32:38,196 - instabot version: 0.107.0 (bot_like) - INFO - Liking user_495346816's feed:
+2020-02-22 00:32:41,117 - instabot version: 0.107.0 (bot_filter) - INFO - Received 18 medias.
+2020-02-22 00:32:41,117 - instabot version: 0.107.0 (bot_filter) - INFO - After filtration 0 medias left.
+2020-02-22 00:32:41,117 - instabot version: 0.107.0 (bot_like) - INFO - None medias received: account is closed or medias have been filtered.
+2020-02-22 00:32:46,018 - instabot version: 0.107.0 (bot_like) - INFO - Liking user_1250901285's feed:
+2020-02-22 00:32:48,005 - instabot version: 0.107.0 (bot_filter) - INFO - Received 18 medias.
+2020-02-22 00:32:48,005 - instabot version: 0.107.0 (bot_filter) - INFO - After filtration 0 medias left.
+2020-02-22 00:32:48,005 - instabot version: 0.107.0 (bot_like) - INFO - None medias received: account is closed or medias have been filtered.
+2020-02-22 00:33:00,287 - instabot version: 0.107.0 (bot_like) - INFO - Liking user_365280007's feed:
+2020-02-22 00:33:02,246 - instabot version: 0.107.0 (bot_filter) - INFO - Received 18 medias.
+2020-02-22 00:33:02,246 - instabot version: 0.107.0 (bot_filter) - INFO - After filtration 3 medias left.
+2020-02-22 00:33:02,246 - instabot version: 0.107.0 (bot_like) - INFO - Going to like 3 medias.
+2020-02-22 00:34:34,830 - instabot version: 0.107.0 (bot_like) - INFO - Liked media 2167964345632573756_365280007.
+2020-02-22 00:37:46,319 - instabot version: 0.107.0 (bot_like) - INFO - Liked media 2098481751816151968_365280007.
+2020-02-22 00:41:17,496 - instabot version: 0.107.0 (bot) - INFO - Total likes: 10/58
+2020-02-22 00:41:17,500 - instabot version: 0.107.0 (bot) - INFO - Total requests: 377

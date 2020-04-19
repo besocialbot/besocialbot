@@ -1,0 +1,45 @@
+2020-03-07 13:48:39,686 - instabot version: 0.113.0 (bot) - INFO - Instabot version: 0.113.0 Started
+2020-03-07 13:48:39,686 - instabot version: 0.113.0 (bot) - DEBUG - Bot imported from /Users/niels/Documents/instabot/examples/../instabot/bot/bot.py
+2020-03-07 13:48:40,150 - instabot version: 0.113.0 (api_login) - INFO - Not yet logged in starting: PRE-LOGIN FLOW!
+2020-03-07 13:48:40,682 - instabot version: 0.113.0 (api) - DEBUG - POST to endpoint: launcher/sync/ returned response: <Response [200]>
+2020-03-07 13:48:41,210 - instabot version: 0.113.0 (api) - DEBUG - POST to endpoint: launcher/sync/ returned response: <Response [200]>
+2020-03-07 13:48:41,720 - instabot version: 0.113.0 (api) - DEBUG - POST to endpoint: accounts/get_prefill_candidates/ returned response: <Response [200]>
+2020-03-07 13:48:42,374 - instabot version: 0.113.0 (api) - DEBUG - POST to endpoint: qe/sync/ returned response: <Response [200]>
+2020-03-07 13:48:44,001 - instabot version: 0.113.0 (api) - DEBUG - POST to endpoint: accounts/login/ returned response: <Response [200]>
+2020-03-07 13:48:44,002 - instabot version: 0.113.0 (api) - INFO - Logged-in successfully as 'nielzdronepilot'!
+2020-03-07 13:48:44,002 - instabot version: 0.113.0 (api_login) - INFO - LOGIN FLOW! Just logged-in: True
+2020-03-07 13:48:44,597 - instabot version: 0.113.0 (api) - DEBUG - POST to endpoint: launcher/sync/ returned response: <Response [200]>
+2020-03-07 13:48:45,290 - instabot version: 0.113.0 (api) - DEBUG - POST to endpoint: launcher/sync/ returned response: <Response [200]>
+2020-03-07 13:48:45,886 - instabot version: 0.113.0 (api) - DEBUG - POST to endpoint: accounts/get_prefill_candidates/ returned response: <Response [500]>
+2020-03-07 13:48:45,887 - instabot version: 0.113.0 (api) - DEBUG - Responsecode indicates error; response content: b'Oops, an error occurred.\n'
+2020-03-07 13:48:45,887 - instabot version: 0.113.0 (api) - ERROR - Request returns 500 error!
+2020-03-07 13:48:45,887 - instabot version: 0.113.0 (api) - ERROR - Error checking for `feedback_required`, response text is not JSON
+2020-03-07 13:48:45,887 - instabot version: 0.113.0 (api) - INFO - Full Response: <Response [500]>
+2020-03-07 13:48:45,887 - instabot version: 0.113.0 (api) - INFO - Response Text: Oops, an error occurred.
+
+2020-03-07 13:48:45,887 - instabot version: 0.113.0 (api) - ERROR - Error unknown send request
+2020-03-07 13:48:46,572 - instabot version: 0.113.0 (api) - DEBUG - POST to endpoint: qe/sync/ returned response: <Response [200]>
+2020-03-07 13:48:47,119 - instabot version: 0.113.0 (api) - DEBUG - GET to endpoint: multiple_accounts/get_account_family/ returned response: <Response [200]>
+2020-03-07 13:48:47,942 - instabot version: 0.113.0 (api) - DEBUG - POST to endpoint: feed/reels_tray/ returned response: <Response [200]>
+2020-03-07 13:48:49,923 - instabot version: 0.113.0 (api) - DEBUG - POST to endpoint: feed/timeline/ returned response: <Response [200]>
+2020-03-07 13:48:50,240 - instabot version: 0.113.0 (api) - DEBUG - GET to endpoint: media/blocked/ returned response: <Response [200]>
+2020-03-07 13:48:52,022 - instabot version: 0.113.0 (api) - DEBUG - GET to endpoint: scores/bootstrap/users/?surfaces=["autocomplete_user_list","coefficient_besties_list_ranking","coefficient_rank_recipient_user_suggestion","coefficient_ios_section_test_bootstrap_ranking","coefficient_direct_recipients_ranking_variant_2"] returned response: <Response [200]>
+2020-03-07 13:48:52,888 - instabot version: 0.113.0 (api) - DEBUG - GET to endpoint: news/inbox/ returned response: <Response [200]>
+2020-03-07 13:48:53,172 - instabot version: 0.113.0 (api) - DEBUG - GET to endpoint: business/branded_content/should_require_professional_account/ returned response: <Response [200]>
+2020-03-07 13:48:53,451 - instabot version: 0.113.0 (api) - DEBUG - GET to endpoint: linked_accounts/get_linkage_status/ returned response: <Response [200]>
+2020-03-07 13:48:53,718 - instabot version: 0.113.0 (api) - DEBUG - GET to endpoint: qp/get_cooldowns/?signed_body=signed_body=7263dc0e7fba056da698c7021680afda4cf226fba73ae3aa14290eec84f18438.4&ig_sig_key_version=4&ig_sig_key_version=4 returned response: <Response [200]>
+2020-03-07 13:48:54,032 - instabot version: 0.113.0 (api) - DEBUG - GET to endpoint: business/eligibility/get_monetization_products_eligibility_data/?product_types=branded_content returned response: <Response [200]>
+2020-03-07 13:48:55,255 - instabot version: 0.113.0 (api) - DEBUG - GET to endpoint: direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20 returned response: <Response [200]>
+2020-03-07 13:48:55,541 - instabot version: 0.113.0 (api) - DEBUG - GET to endpoint: direct_v2/inbox/?visual_message_return_type=unseen&persistentBadging=true&limit=0 returned response: <Response [200]>
+2020-03-07 13:48:55,686 - instabot version: 0.113.0 (api) - DEBUG - GET to endpoint: direct_v2/get_presence/ returned response: <Response [200]>
+2020-03-07 13:48:55,981 - instabot version: 0.113.0 (api) - DEBUG - GET to endpoint: loom/fetch_config/ returned response: <Response [200]>
+2020-03-07 13:48:56,295 - instabot version: 0.113.0 (api) - DEBUG - GET to endpoint: discover/topical_explore/?is_prefetch=true&omit_cover_media=true&use_sectional_payload=true&timezone_offset=0&session_id=d007503c-a3dd-4292-8159-85112a8cc7eb&include_fixed_destinations=true returned response: <Response [200]>
+2020-03-07 13:48:56,633 - instabot version: 0.113.0 (api) - DEBUG - POST to endpoint: notifications/badge/ returned response: <Response [200]>
+2020-03-07 13:48:57,162 - instabot version: 0.113.0 (api) - DEBUG - POST to endpoint: qp/batch_fetch/ returned response: <Response [200]>
+2020-03-07 13:48:57,163 - instabot version: 0.113.0 (bot_checkpoint) - DEBUG - Loading Checkpoint file from: /Users/niels/Documents/instabot/examples/config/nielzdronepilot.checkpoint
+2020-03-07 13:49:20,773 - instabot version: 0.113.0 (api) - DEBUG - POST to endpoint: accounts/logout/ returned response: <Response [200]>
+2020-03-07 13:49:20,773 - instabot version: 0.113.0 (bot) - INFO - Bot stopped. Worked: 0:00:41.087552
+2020-03-07 13:49:20,773 - instabot version: 0.113.0 (bot_checkpoint) - DEBUG - Saving Checkpoint file to: /Users/niels/Documents/instabot/examples/config/nielzdronepilot.checkpoint
+2020-03-07 13:49:20,774 - instabot version: 0.113.0 (bot) - INFO - Total requests: 27
+2020-03-07 13:49:20,774 - instabot version: 0.113.0 (bot_checkpoint) - DEBUG - Saving Checkpoint file to: /Users/niels/Documents/instabot/examples/config/nielzdronepilot.checkpoint
+2020-03-07 13:49:20,775 - instabot version: 0.113.0 (bot) - INFO - Total requests: 27

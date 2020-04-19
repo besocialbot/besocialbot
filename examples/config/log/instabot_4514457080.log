@@ -1,0 +1,8 @@
+2020-02-15 20:08:17,480 - instabot version: 0.107.0 (bot) - INFO - Instabot version: 0.107.0 Started
+2020-02-15 20:08:17,481 - instabot version: 0.107.0 (api_login) - INFO - Not yet logged in starting: PRE-LOGIN FLOW!
+2020-02-15 20:08:33,220 - instabot version: 0.107.0 (api) - INFO - Logged-in successfully as 'dronevlieger'!
+2020-02-15 20:08:33,220 - instabot version: 0.107.0 (api_login) - INFO - LOGIN FLOW! Just logged-in: True
+2020-02-15 20:09:17,472 - instabot version: 0.107.0 (bot_follow) - INFO - Follow followers of: fromwhereidrone
+2020-02-15 20:09:23,197 - instabot version: 0.107.0 (api) - ERROR - Request returns 429 error!
+2020-02-15 20:09:23,197 - instabot version: 0.107.0 (api) - WARNING - That means 'too many requests'. I'll go to sleep for 5 minutes.
+2020-02-15 20:09:26,677 - instabot version: 0.107.0 (bot) - INFO - Total requests: 33

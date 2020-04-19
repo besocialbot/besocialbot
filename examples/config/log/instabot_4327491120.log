@@ -1,0 +1,11 @@
+2020-02-15 18:55:40,189 - instabot version: 0.107.0 (bot) - INFO - Instabot version: 0.107.0 Started
+2020-02-15 18:55:40,190 - instabot version: 0.107.0 (api_login) - INFO - PRE-LOGIN FLOW!... 
+2020-02-15 18:55:56,468 - instabot version: 0.107.0 (api) - INFO - Logged-in successfully as 'dronevlieger'!
+2020-02-15 18:55:56,468 - instabot version: 0.107.0 (api_login) - INFO - LOGIN FLOW! Just logged-in: True
+2020-02-15 18:56:03,870 - instabot version: 0.107.0 (api) - ERROR - Request returns 400 error!
+2020-02-15 18:56:03,870 - instabot version: 0.107.0 (api) - INFO - Instagram's error message: Bad request
+2020-02-15 18:56:03,870 - instabot version: 0.107.0 (api) - INFO - Instagram's error message: {}
+2020-02-15 18:56:30,066 - instabot version: 0.107.0 (bot_follow) - INFO - Follow followers of: fromwhereidrone
+2020-02-15 18:56:36,012 - instabot version: 0.107.0 (api) - ERROR - Request returns 429 error!
+2020-02-15 18:56:36,012 - instabot version: 0.107.0 (api) - WARNING - That means 'too many requests'. I'll go to sleep for 5 minutes.
+2020-02-15 18:56:41,775 - instabot version: 0.107.0 (bot) - INFO - Total requests: 15

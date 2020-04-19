@@ -1,0 +1,70 @@
+2020-03-07 17:49:36,303 - instabot version: 0.113.0 (bot) - INFO - Instabot version: 0.113.0 Started
+2020-03-07 17:49:36,304 - instabot version: 0.113.0 (bot) - DEBUG - Bot imported from /Users/niels/Documents/instabot/examples/../instabot/bot/bot.py
+2020-03-07 17:49:37,784 - instabot version: 0.113.0 (api_login) - DEBUG - Loading cookies
+2020-03-07 17:49:37,784 - instabot version: 0.113.0 (api_login) - DEBUG - Loading uuids
+2020-03-07 17:49:37,784 - instabot version: 0.113.0 (api_login) - INFO - Recovery from /Users/niels/Documents/instabot/examples/config/dronevlieger_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 130.0.0.31.121 Android (29/10.0; 420dpi; 1080x2340; OnePlus; GM1903; OnePlus7; qcom; en_US; 168361634)
+- phone_id=462c50c9-ceb2-461b-bca2-eb445832ad0b
+- uuid=f4a4b377-c103-4856-abaa-6312a5d2cef8
+- client_session_id=4f414a7d-ac7d-4978-ba81-27bf912749cb
+- device_id=android-e686a39202eb9294
+2020-03-07 17:49:37,785 - instabot version: 0.113.0 (api_login) - INFO - LOGIN FLOW! Just logged-in: False
+2020-03-07 17:49:38,040 - instabot version: 0.113.0 (api) - DEBUG - POST to endpoint: feed/timeline/ returned response: <Response [403]>
+2020-03-07 17:49:38,040 - instabot version: 0.113.0 (api) - DEBUG - Responsecode indicates error; response content: b'{"message": "user_has_logged_out", "logout_reason": 9, "status": "fail"}'
+2020-03-07 17:49:38,041 - instabot version: 0.113.0 (api) - ERROR - Request returns 403 error!
+2020-03-07 17:49:38,295 - instabot version: 0.113.0 (api) - DEBUG - POST to endpoint: feed/reels_tray/ returned response: <Response [403]>
+2020-03-07 17:49:38,295 - instabot version: 0.113.0 (api) - DEBUG - Responsecode indicates error; response content: b'{"message": "user_has_logged_out", "logout_reason": 9, "status": "fail"}'
+2020-03-07 17:49:38,295 - instabot version: 0.113.0 (api) - ERROR - Request returns 403 error!
+2020-03-07 17:49:38,296 - instabot version: 0.113.0 (api) - INFO - Login flow failed, the cookie is broken. Relogin again.
+2020-03-07 17:49:38,296 - instabot version: 0.113.0 (api_login) - DEBUG - Loading cookies
+2020-03-07 17:49:38,296 - instabot version: 0.113.0 (api_login) - DEBUG - Loading uuids
+2020-03-07 17:49:38,297 - instabot version: 0.113.0 (api_login) - INFO - Recovery from /Users/niels/Documents/instabot/examples/config/dronevlieger_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 130.0.0.31.121 Android (29/10.0; 420dpi; 1080x2340; OnePlus; GM1903; OnePlus7; qcom; en_US; 168361634)
+- phone_id=462c50c9-ceb2-461b-bca2-eb445832ad0b
+- uuid=f4a4b377-c103-4856-abaa-6312a5d2cef8
+- client_session_id=4f414a7d-ac7d-4978-ba81-27bf912749cb
+- device_id=android-e686a39202eb9294
+2020-03-07 17:49:38,297 - instabot version: 0.113.0 (api_login) - INFO - Not yet logged in starting: PRE-LOGIN FLOW!
+2020-03-07 17:49:38,568 - instabot version: 0.113.0 (api) - DEBUG - POST to endpoint: accounts/contact_point_prefill/ returned response: <Response [200]>
+2020-03-07 17:49:38,850 - instabot version: 0.113.0 (api) - DEBUG - POST to endpoint: qe/sync/ returned response: <Response [200]>
+2020-03-07 17:49:39,128 - instabot version: 0.113.0 (api) - DEBUG - POST to endpoint: launcher/sync/ returned response: <Response [200]>
+2020-03-07 17:49:39,401 - instabot version: 0.113.0 (api) - DEBUG - POST to endpoint: accounts/get_prefill_candidates/ returned response: <Response [200]>
+2020-03-07 17:49:41,814 - instabot version: 0.113.0 (api) - DEBUG - POST to endpoint: accounts/login/ returned response: <Response [200]>
+2020-03-07 17:49:41,814 - instabot version: 0.113.0 (api) - INFO - Logged-in successfully as 'dronevlieger'!
+2020-03-07 17:49:41,814 - instabot version: 0.113.0 (api_login) - INFO - LOGIN FLOW! Just logged-in: True
+2020-03-07 17:49:42,054 - instabot version: 0.113.0 (api) - DEBUG - POST to endpoint: launcher/sync/ returned response: <Response [200]>
+2020-03-07 17:49:42,293 - instabot version: 0.113.0 (api) - DEBUG - GET to endpoint: multiple_accounts/get_account_family/ returned response: <Response [200]>
+2020-03-07 17:49:42,532 - instabot version: 0.113.0 (api) - DEBUG - GET to endpoint: zr/token/result/?device_id=android-e686a39202eb9294&token_hash=&custom_device_id=f4a4b377-c103-4856-abaa-6312a5d2cef8&fetch_reason=token_expired returned response: <Response [200]>
+2020-03-07 17:49:42,954 - instabot version: 0.113.0 (api) - DEBUG - POST to endpoint: qe/sync/ returned response: <Response [200]>
+2020-03-07 17:49:43,211 - instabot version: 0.113.0 (api) - DEBUG - GET to endpoint: banyan/banyan/?views=["story_share_sheet","threads_people_picker","group_stories_share_sheet","reshare_share_sheet"] returned response: <Response [200]>
+2020-03-07 17:49:43,463 - instabot version: 0.113.0 (api) - DEBUG - POST to endpoint: creatives/ar_class/ returned response: <Response [200]>
+2020-03-07 17:49:44,348 - instabot version: 0.113.0 (api) - DEBUG - POST to endpoint: feed/reels_tray/ returned response: <Response [200]>
+2020-03-07 17:49:45,984 - instabot version: 0.113.0 (api) - DEBUG - POST to endpoint: feed/timeline/ returned response: <Response [200]>
+2020-03-07 17:49:46,642 - instabot version: 0.113.0 (api) - DEBUG - POST to endpoint: push/register/ returned response: <Response [200]>
+2020-03-07 17:49:46,883 - instabot version: 0.113.0 (api) - DEBUG - GET to endpoint: media/blocked/ returned response: <Response [200]>
+2020-03-07 17:49:47,139 - instabot version: 0.113.0 (api) - DEBUG - GET to endpoint: loom/fetch_config/ returned response: <Response [200]>
+2020-03-07 17:49:48,729 - instabot version: 0.113.0 (api) - DEBUG - GET to endpoint: news/inbox/ returned response: <Response [200]>
+2020-03-07 17:49:48,969 - instabot version: 0.113.0 (api) - DEBUG - GET to endpoint: business/branded_content/should_require_professional_account/ returned response: <Response [200]>
+2020-03-07 17:49:51,311 - instabot version: 0.113.0 (api) - DEBUG - GET to endpoint: scores/bootstrap/users/?surfaces=["autocomplete_user_list","coefficient_besties_list_ranking","coefficient_rank_recipient_user_suggestion","coefficient_ios_section_test_bootstrap_ranking","coefficient_direct_recipients_ranking_variant_2"] returned response: <Response [200]>
+2020-03-07 17:49:51,569 - instabot version: 0.113.0 (api) - DEBUG - GET to endpoint: business/eligibility/get_monetization_products_eligibility_data/?product_types=branded_content returned response: <Response [200]>
+2020-03-07 17:49:51,807 - instabot version: 0.113.0 (api) - DEBUG - GET to endpoint: linked_accounts/get_linkage_status/ returned response: <Response [200]>
+2020-03-07 17:49:52,049 - instabot version: 0.113.0 (api) - DEBUG - GET to endpoint: qp/get_cooldowns/?signed_body=7263dc0e7fba056da698c7021680afda4cf226fba73ae3aa14290eec84f18438.4&ig_sig_key_version=4 returned response: <Response [200]>
+2020-03-07 17:49:52,300 - instabot version: 0.113.0 (api) - DEBUG - POST to endpoint: push/register/ returned response: <Response [200]>
+2020-03-07 17:49:52,545 - instabot version: 0.113.0 (api) - DEBUG - GET to endpoint: users/arlink_download_info/?version_override=2.2.1 returned response: <Response [200]>
+2020-03-07 17:49:53,315 - instabot version: 0.113.0 (api) - DEBUG - GET to endpoint: users/1689765421/info/ returned response: <Response [200]>
+2020-03-07 17:49:53,821 - instabot version: 0.113.0 (api) - DEBUG - GET to endpoint: direct_v2/get_presence/ returned response: <Response [200]>
+2020-03-07 17:49:54,099 - instabot version: 0.113.0 (api) - DEBUG - GET to endpoint: direct_v2/inbox/?visual_message_return_type=unseen&persistentBadging=true&limit=0 returned response: <Response [200]>
+2020-03-07 17:49:54,361 - instabot version: 0.113.0 (api) - DEBUG - GET to endpoint: discover/topical_explore/?is_prefetch=true&omit_cover_media=true&use_sectional_payload=true&timezone_offset=0&session_id=4f414a7d-ac7d-4978-ba81-27bf912749cb&include_fixed_destinations=true returned response: <Response [200]>
+2020-03-07 17:49:55,965 - instabot version: 0.113.0 (api) - DEBUG - GET to endpoint: direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20 returned response: <Response [200]>
+2020-03-07 17:49:56,216 - instabot version: 0.113.0 (api) - DEBUG - POST to endpoint: notifications/badge/ returned response: <Response [200]>
+2020-03-07 17:49:56,475 - instabot version: 0.113.0 (api) - DEBUG - GET to endpoint: facebook_ota/?fields=update{download_uri,download_uri_delta_base,version_code_delta_base,download_uri_delta,fallback_to_full_update,file_size_delta,version_code,published_date,file_size,ota_bundle_type,resources_checksum,allowed_networks,release_id}&custom_user_id=3149016955&signed_body=7263dc0e7fba056da698c7021680afda4cf226fba73ae3aa14290eec84f18438.4&ig_sig_key_version=4&version_code=200396023&version_name=130.0.0.31.121&custom_app_id=124024574287414&custom_device_id=462c50c9-ceb2-461b-bca2-eb445832ad0b returned response: <Response [200]>
+2020-03-07 17:49:56,476 - instabot version: 0.113.0 (bot_checkpoint) - DEBUG - Loading Checkpoint file from: /Users/niels/Documents/instabot/examples/config/dronevlieger.checkpoint
+2020-03-07 17:50:27,498 - instabot version: 0.113.0 (bot_like) - INFO - Going to like media with hashtag #dronevlieger.
+2020-03-07 17:50:31,580 - instabot version: 0.113.0 (api) - DEBUG - GET to endpoint: feed/tag/dronevlieger/?max_id=&rank_token=1689765421_f4a4b377-c103-4856-abaa-6312a5d2cef8&ranked_content=true& returned response: <Response [200]>
+2020-03-07 17:50:32,059 - instabot version: 0.113.0 (api) - DEBUG - GET to endpoint: tags/search/?is_typeahead=true&q=dronevlieger&rank_token=1689765421_f4a4b377-c103-4856-abaa-6312a5d2cef8 returned response: <Response [200]>
+2020-03-07 17:50:32,060 - instabot version: 0.113.0 (bot_like) - INFO - Going to like 86 medias.
+2020-03-07 17:50:32,375 - instabot version: 0.113.0 (api) - DEBUG - GET to endpoint: media/2259579987533678731_2349198796/info/ returned response: <Response [200]>
+2020-03-07 17:50:32,682 - instabot version: 0.113.0 (api) - DEBUG - GET to endpoint: media/2259579987533678731_2349198796/info/ returned response: <Response [200]>
+2020-03-07 17:50:33,016 - instabot version: 0.113.0 (api) - DEBUG - GET to endpoint: media/2259579987533678731_2349198796/comments/ returned response: <Response [200]>
+2020-03-07 17:52:30,389 - instabot version: 0.113.0 (bot_checkpoint) - DEBUG - Saving Checkpoint file to: /Users/niels/Documents/instabot/examples/config/dronevlieger.checkpoint
+2020-03-07 17:52:30,389 - instabot version: 0.113.0 (bot) - INFO - Total requests: 37

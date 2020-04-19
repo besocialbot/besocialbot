@@ -1,0 +1,61 @@
+2020-02-22 11:43:35,259 - instabot version: 0.109.0 (bot) - INFO - Instabot version: 0.109.0 Started
+2020-02-22 11:43:35,259 - instabot version: 0.109.0 (bot) - DEBUG - Bot imported from /Users/niels/Documents/instabot/examples/../instabot/bot/bot.pyc
+2020-02-22 11:43:37,273 - instabot version: 0.109.0 (api_login) - DEBUG - Loading cookies
+2020-02-22 11:43:37,274 - instabot version: 0.109.0 (api_login) - DEBUG - Loading uuids
+2020-02-22 11:43:37,274 - instabot version: 0.109.0 (api_login) - INFO - Recovery from /Users/niels/Documents/instabot/examples/config/dronevlieger_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 117.0.0.28.123 Android (28/9.0; 420dpi; 1080x1920; OnePlus; ONEPLUS A3003; OnePlus3; qcom; en_US; 180322800)
+- phone_id=d936e783-96b0-4684-b21b-2afb58ecfcf7
+- uuid=122b7682-5cd8-41d4-a8db-31a23d014db0
+- client_session_id=bdef51f8-9da5-43c9-8796-4c66a73ef6f1
+- device_id=android-17757404dd6a9a97
+2020-02-22 11:43:37,274 - instabot version: 0.109.0 (api_login) - INFO - LOGIN FLOW! Just logged-in: False
+2020-02-22 11:43:38,299 - instabot version: 0.109.0 (api) - DEBUG - POST to endpoint: feed/timeline/ returned response: <Response [403]>
+2020-02-22 11:43:38,299 - instabot version: 0.109.0 (api) - DEBUG - Responsecode indicates error; response content: {"message": "user_has_logged_out", "logout_reason": 9, "status": "fail"}
+2020-02-22 11:43:38,300 - instabot version: 0.109.0 (api) - ERROR - Request returns 403 error!
+2020-02-22 11:43:39,282 - instabot version: 0.109.0 (api) - DEBUG - POST to endpoint: feed/reels_tray/ returned response: <Response [403]>
+2020-02-22 11:43:39,282 - instabot version: 0.109.0 (api) - DEBUG - Responsecode indicates error; response content: {"message": "user_has_logged_out", "logout_reason": 9, "status": "fail"}
+2020-02-22 11:43:39,282 - instabot version: 0.109.0 (api) - ERROR - Request returns 403 error!
+2020-02-22 11:43:39,283 - instabot version: 0.109.0 (api) - INFO - Login flow failed, the cookie is broken. Relogin again.
+2020-02-22 11:43:39,283 - instabot version: 0.109.0 (api_login) - DEBUG - Loading cookies
+2020-02-22 11:43:39,284 - instabot version: 0.109.0 (api_login) - DEBUG - Loading uuids
+2020-02-22 11:43:39,284 - instabot version: 0.109.0 (api_login) - INFO - Recovery from /Users/niels/Documents/instabot/examples/config/dronevlieger_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 117.0.0.28.123 Android (28/9.0; 420dpi; 1080x1920; OnePlus; ONEPLUS A3003; OnePlus3; qcom; en_US; 180322800)
+- phone_id=d936e783-96b0-4684-b21b-2afb58ecfcf7
+- uuid=122b7682-5cd8-41d4-a8db-31a23d014db0
+- client_session_id=bdef51f8-9da5-43c9-8796-4c66a73ef6f1
+- device_id=android-17757404dd6a9a97
+2020-02-22 11:43:39,284 - instabot version: 0.109.0 (api_login) - INFO - Not yet logged in starting: PRE-LOGIN FLOW!
+2020-02-22 11:43:40,263 - instabot version: 0.109.0 (api) - DEBUG - POST to endpoint: accounts/contact_point_prefill/ returned response: <Response [200]>
+2020-02-22 11:43:41,394 - instabot version: 0.109.0 (api) - DEBUG - POST to endpoint: qe/sync/ returned response: <Response [200]>
+2020-02-22 11:43:42,384 - instabot version: 0.109.0 (api) - DEBUG - POST to endpoint: launcher/sync/ returned response: <Response [200]>
+2020-02-22 11:43:43,380 - instabot version: 0.109.0 (api) - DEBUG - POST to endpoint: accounts/get_prefill_candidates/ returned response: <Response [200]>
+2020-02-22 11:43:44,380 - instabot version: 0.109.0 (api) - DEBUG - POST to endpoint: accounts/contact_point_prefill/ returned response: <Response [200]>
+2020-02-22 11:43:45,363 - instabot version: 0.109.0 (api) - DEBUG - POST to endpoint: launcher/sync/ returned response: <Response [200]>
+2020-02-22 11:43:46,491 - instabot version: 0.109.0 (api) - DEBUG - POST to endpoint: qe/sync/ returned response: <Response [200]>
+2020-02-22 11:43:49,568 - instabot version: 0.109.0 (api) - DEBUG - POST to endpoint: accounts/login/ returned response: <Response [200]>
+2020-02-22 11:43:49,568 - instabot version: 0.109.0 (api) - INFO - Logged-in successfully as 'dronevlieger'!
+2020-02-22 11:43:49,568 - instabot version: 0.109.0 (api_login) - INFO - LOGIN FLOW! Just logged-in: True
+2020-02-22 11:43:50,650 - instabot version: 0.109.0 (api) - DEBUG - POST to endpoint: qe/sync/ returned response: <Response [200]>
+2020-02-22 11:43:51,639 - instabot version: 0.109.0 (api) - DEBUG - POST to endpoint: launcher/sync/ returned response: <Response [200]>
+2020-02-22 11:43:52,597 - instabot version: 0.109.0 (api) - DEBUG - GET to endpoint: zr/token/result/?device_id=android-17757404dd6a9a97&token_hash=&custom_device_id=android-17757404dd6a9a97&fetch_reason=token_expired returned response: <Response [200]>
+2020-02-22 11:43:53,568 - instabot version: 0.109.0 (api) - DEBUG - GET to endpoint: multiple_accounts/get_account_family/ returned response: <Response [200]>
+2020-02-22 11:43:54,685 - instabot version: 0.109.0 (api) - DEBUG - POST to endpoint: qe/sync/ returned response: <Response [200]>
+2020-02-22 11:43:55,631 - instabot version: 0.109.0 (api) - DEBUG - GET to endpoint: banyan/banyan/?views=['story_share_sheet','threads_people_picker','group_stories_share_sheet','reshare_share_sheet'] returned response: <Response [400]>
+2020-02-22 11:43:55,632 - instabot version: 0.109.0 (api) - DEBUG - Responsecode indicates error; response content: {"message": "Bad request", "status": "fail"}
+2020-02-22 11:43:55,632 - instabot version: 0.109.0 (api) - ERROR - Request returns 400 error!
+2020-02-22 11:43:55,632 - instabot version: 0.109.0 (api) - INFO - Instagram's error message: Bad request
+2020-02-22 11:43:55,632 - instabot version: 0.109.0 (api) - INFO - Instagram's error message: {}
+2020-02-22 11:43:57,091 - instabot version: 0.109.0 (api) - DEBUG - GET to endpoint: igtv/browse_feed/?prefetch=1 returned response: <Response [200]>
+2020-02-22 11:43:57,095 - instabot version: 0.109.0 (api_login) - ERROR - Exception raised: 'API' object has no attribute 'creatives_ar_class'
+Traceback (most recent call last):
+  File "/Users/niels/Documents/instabot/examples/../instabot/api/api_login.py", line 154, in login_flow
+    check_flow.append(self.creatives_ar_class())
+AttributeError: 'API' object has no attribute 'creatives_ar_class'
+
+2020-02-22 11:43:57,095 - instabot version: 0.109.0 (bot_checkpoint) - DEBUG - Loading Checkpoint file from: /Users/niels/Documents/instabot/examples/config/dronevlieger.checkpoint
+2020-02-22 11:44:28,928 - instabot version: 0.109.0 (api) - DEBUG - POST to endpoint: accounts/logout/ returned response: <Response [200]>
+2020-02-22 11:44:28,936 - instabot version: 0.109.0 (bot) - INFO - Bot stopped. Worked: 1:05:11.023064
+2020-02-22 11:44:28,936 - instabot version: 0.109.0 (bot_checkpoint) - DEBUG - Saving Checkpoint file to: /Users/niels/Documents/instabot/examples/config/dronevlieger.checkpoint
+2020-02-22 11:44:28,937 - instabot version: 0.109.0 (bot) - INFO - Total requests: 83
+2020-02-22 11:44:28,937 - instabot version: 0.109.0 (bot_checkpoint) - DEBUG - Saving Checkpoint file to: /Users/niels/Documents/instabot/examples/config/dronevlieger.checkpoint
+2020-02-22 11:44:28,939 - instabot version: 0.109.0 (bot) - INFO - Total requests: 83

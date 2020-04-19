@@ -1,0 +1,14 @@
+2020-02-15 19:42:48,323 - instabot version: 0.107.0 (bot) - INFO - Instabot version: 0.107.0 Started
+2020-02-15 19:42:48,324 - instabot version: 0.107.0 (api_login) - INFO - Not yet logged in starting: PRE-LOGIN FLOW!
+2020-02-15 19:43:01,952 - instabot version: 0.107.0 (api) - INFO - Logged-in successfully as 'dronevlieger'!
+2020-02-15 19:43:01,952 - instabot version: 0.107.0 (api_login) - INFO - LOGIN FLOW! Just logged-in: True
+2020-02-15 19:43:30,922 - instabot version: 0.107.0 (api_login) - ERROR - Exception raised: send_request() got an unexpected keyword argument 'data'
+Traceback (most recent call last):
+  File "/Users/niels/Documents/instabot/examples/../instabot/api/api_login.py", line 133, in login_flow
+    check_flow.append(self.get_cooldowns())
+  File "/Users/niels/Documents/instabot/examples/../instabot/api/api.py", line 1758, in get_cooldowns
+    return self.send_request("qp/get_cooldowns/", data=data)
+TypeError: send_request() got an unexpected keyword argument 'data'
+
+2020-02-15 19:43:30,922 - instabot version: 0.107.0 (bot_follow) - INFO - Follow followers of: fromwhereidrone
+2020-02-15 19:43:35,017 - instabot version: 0.107.0 (bot) - INFO - Total requests: 20

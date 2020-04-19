@@ -1,0 +1,24 @@
+2020-02-22 11:33:08,558 - instabot version: 0.109.0 (bot) - INFO - Instabot version: 0.109.0 Started
+2020-02-22 11:33:08,558 - instabot version: 0.109.0 (bot) - DEBUG - Bot imported from /Users/niels/Documents/instabot/examples/../instabot/bot/bot.py
+2020-02-22 11:33:27,466 - instabot version: 0.109.0 (api_login) - DEBUG - Loading cookies
+2020-02-22 11:33:27,466 - instabot version: 0.109.0 (api_login) - DEBUG - Loading uuids
+2020-02-22 11:33:27,466 - instabot version: 0.109.0 (api_login) - INFO - Recovery from /Users/niels/Documents/instabot/examples/config/dronevlieger_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 117.0.0.28.123 Android (28/9.0; 420dpi; 1080x1920; OnePlus; ONEPLUS A3003; OnePlus3; qcom; en_US; 180322800)
+- phone_id=d936e783-96b0-4684-b21b-2afb58ecfcf7
+- uuid=122b7682-5cd8-41d4-a8db-31a23d014db0
+- client_session_id=bdef51f8-9da5-43c9-8796-4c66a73ef6f1
+- device_id=android-17757404dd6a9a97
+2020-02-22 11:33:27,466 - instabot version: 0.109.0 (api_login) - INFO - LOGIN FLOW! Just logged-in: False
+2020-02-22 11:33:29,428 - instabot version: 0.109.0 (api) - DEBUG - POST to endpoint: feed/timeline/ returned response: <Response [200]>
+2020-02-22 11:33:30,927 - instabot version: 0.109.0 (api) - DEBUG - POST to endpoint: feed/reels_tray/ returned response: <Response [200]>
+2020-02-22 11:33:30,935 - instabot version: 0.109.0 (api) - INFO - Logged-in successfully as 'dronevlieger'!
+2020-02-22 11:33:30,935 - instabot version: 0.109.0 (bot_checkpoint) - DEBUG - Loading Checkpoint file from: /Users/niels/Documents/instabot/examples/config/dronevlieger.checkpoint
+2020-02-22 11:33:44,151 - instabot version: 0.109.0 (bot_like) - INFO - Going to like media with hashtag #dronevlieger.
+2020-02-22 11:33:47,340 - instabot version: 0.109.0 (api) - DEBUG - GET to endpoint: feed/tag/dronevlieger/?max_id=&rank_token=1689765421_122b7682-5cd8-41d4-a8db-31a23d014db0&ranked_content=true& returned response: <Response [200]>
+2020-02-22 11:33:48,363 - instabot version: 0.109.0 (api) - DEBUG - GET to endpoint: tags/search/?is_typeahead=true&q=dronevlieger&rank_token=1689765421_122b7682-5cd8-41d4-a8db-31a23d014db0 returned response: <Response [200]>
+2020-02-22 11:33:48,365 - instabot version: 0.109.0 (bot_like) - INFO - Going to like 86 medias.
+2020-02-22 11:33:49,303 - instabot version: 0.109.0 (api) - DEBUG - GET to endpoint: media/2249298666192001156_2216529073/info/ returned response: <Response [200]>
+2020-02-22 11:33:50,260 - instabot version: 0.109.0 (api) - DEBUG - GET to endpoint: media/2249298666192001156_2216529073/info/ returned response: <Response [200]>
+2020-02-22 11:33:51,211 - instabot version: 0.109.0 (api) - DEBUG - GET to endpoint: media/2249298666192001156_2216529073/comments/ returned response: <Response [200]>
+2020-02-22 11:35:19,782 - instabot version: 0.109.0 (bot_checkpoint) - DEBUG - Saving Checkpoint file to: /Users/niels/Documents/instabot/examples/config/dronevlieger.checkpoint
+2020-02-22 11:35:19,854 - instabot version: 0.109.0 (bot) - INFO - Total requests: 74

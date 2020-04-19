@@ -1,0 +1,14 @@
+2020-02-15 19:44:21,600 - instabot version: 0.107.0 (bot) - INFO - Instabot version: 0.107.0 Started
+2020-02-15 19:44:21,601 - instabot version: 0.107.0 (api_login) - INFO - Not yet logged in starting: PRE-LOGIN FLOW!
+2020-02-15 19:44:34,923 - instabot version: 0.107.0 (api) - INFO - Logged-in successfully as 'dronevlieger'!
+2020-02-15 19:44:34,923 - instabot version: 0.107.0 (api_login) - INFO - LOGIN FLOW! Just logged-in: True
+2020-02-15 19:45:04,712 - instabot version: 0.107.0 (api_login) - ERROR - Exception raised: local variable 'data' referenced before assignment
+Traceback (most recent call last):
+  File "/Users/niels/Documents/instabot/examples/../instabot/api/api_login.py", line 133, in login_flow
+    check_flow.append(self.get_cooldowns())
+  File "/Users/niels/Documents/instabot/examples/../instabot/api/api.py", line 1756, in get_cooldowns
+    data = self.generate_signature(data)
+UnboundLocalError: local variable 'data' referenced before assignment
+
+2020-02-15 19:45:04,713 - instabot version: 0.107.0 (bot_follow) - INFO - Follow followers of: fromwhereidrone
+2020-02-15 19:45:08,109 - instabot version: 0.107.0 (bot) - INFO - Total requests: 22

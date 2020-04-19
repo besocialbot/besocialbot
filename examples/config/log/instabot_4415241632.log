@@ -1,0 +1,16 @@
+2020-02-15 19:52:00,532 - instabot version: 0.107.0 (bot) - INFO - Instabot version: 0.107.0 Started
+2020-02-15 19:52:00,533 - instabot version: 0.107.0 (api_login) - INFO - Not yet logged in starting: PRE-LOGIN FLOW!
+2020-02-15 19:52:16,344 - instabot version: 0.107.0 (api) - INFO - Logged-in successfully as 'dronevlieger'!
+2020-02-15 19:52:16,344 - instabot version: 0.107.0 (api_login) - INFO - LOGIN FLOW! Just logged-in: True
+2020-02-15 19:52:52,005 - instabot version: 0.107.0 (api_login) - ERROR - Exception raised: 'dict' object has no attribute 'encode'
+Traceback (most recent call last):
+  File "/Users/niels/Documents/instabot/examples/../instabot/api/api_login.py", line 135, in login_flow
+    check_flow.append(self.log_resurrect_attribution())
+  File "/Users/niels/Documents/instabot/examples/../instabot/api/api.py", line 1768, in log_resurrect_attribution
+    data = self.generate_signature(data)
+  File "/Users/niels/Documents/instabot/examples/../instabot/api/api.py", line 1302, in generate_signature
+    + urllib.parse.quote(data)
+AttributeError: 'dict' object has no attribute 'encode'
+
+2020-02-15 19:52:52,025 - instabot version: 0.107.0 (bot_follow) - INFO - Follow followers of: fromwhereidrone
+2020-02-15 19:52:54,020 - instabot version: 0.107.0 (bot) - INFO - Total requests: 25

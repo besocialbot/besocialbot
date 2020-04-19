@@ -1,0 +1,15 @@
+2020-03-07 12:13:40,820 - instabot version: 0.110.0 (bot) - INFO - Instabot version: 0.110.0 Started
+2020-03-07 12:13:40,821 - instabot version: 0.110.0 (bot) - DEBUG - Bot imported from /Users/niels/Documents/instabot/examples/../instabot/bot/bot.py
+2020-03-07 12:13:41,813 - instabot version: 0.110.0 (api_login) - INFO - Not yet logged in starting: PRE-LOGIN FLOW!
+2020-03-07 12:13:42,060 - instabot version: 0.110.0 (api) - DEBUG - POST to endpoint: accounts/get_prefill_candidates/ returned response: <Response [200]>
+2020-03-07 12:13:42,299 - instabot version: 0.110.0 (api) - DEBUG - POST to endpoint: qe/sync/ returned response: <Response [200]>
+2020-03-07 12:13:42,523 - instabot version: 0.110.0 (api) - DEBUG - POST to endpoint: launcher/sync/ returned response: <Response [200]>
+2020-03-07 12:13:42,749 - instabot version: 0.110.0 (api) - DEBUG - POST to endpoint: accounts/contact_point_prefill/ returned response: <Response [200]>
+2020-03-07 12:13:45,543 - instabot version: 0.110.0 (api) - INFO - #PWD_INSTAGRAM:4:1583579622:ATIwNSlteKV3GEt2OhQQozAwMDFlOSxL2dyibveRBmw3BEDt/pe4wNLPvv2h02Qj8ceaKCXxIp/Nt/DmNFNiTkw7YINARtE5cFynYMJyUTdGY3MQyayVWsnXmi8fGEETo5U0Ua8ksAdfn+v21g+dMjTgr+M5ntlcZzMfvFgWfU0zrUq3kZim5uvr/KThL6+ZSHV+4KmEOWroBJk+BfWjU5+QFpFTiqVjM+KXnEFPOWQhZewN9GG3gRbBQYS0jnt9dMF9z2+dZN7KI2yQ0vsn3PJChxrKR6Y5ABneUDRRYri1EIp2parhx+gQvst3Sn8O9I7qj7EMQtZNd+LoWHt/bwDW4OKZ+kntOdKV6l/LUXOsCXNbiaINF/2EH12R0PlBWnY81PG9E1VhOHt+a2ckOXkA5w==
+2020-03-07 12:13:45,886 - instabot version: 0.110.0 (api) - DEBUG - POST to endpoint: accounts/login/ returned response: <Response [400]>
+2020-03-07 12:13:45,886 - instabot version: 0.110.0 (api) - DEBUG - Responsecode indicates error; response content: b'{"message": "There was an error with your request. Please try again.", "status": "fail"}'
+2020-03-07 12:13:45,886 - instabot version: 0.110.0 (api) - ERROR - Request returns 400 error!
+2020-03-07 12:13:45,886 - instabot version: 0.110.0 (api) - INFO - Instagram's error message: There was an error with your request. Please try again.
+2020-03-07 12:13:45,886 - instabot version: 0.110.0 (api) - INFO - Instagram's error message: {}
+2020-03-07 12:13:45,887 - instabot version: 0.110.0 (api) - ERROR - Failed to login go to instagram and change your password
+2020-03-07 12:13:45,887 - instabot version: 0.110.0 (api) - INFO - Username or password is incorrect.

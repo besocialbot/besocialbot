@@ -1,0 +1,23 @@
+2020-03-07 11:49:42,873 - instabot version: 0.107.0 (bot) - INFO - Instabot version: 0.107.0 Started
+2020-03-07 11:49:44,226 - instabot version: 0.107.0 (api_login) - INFO - Recovery from /Users/niels/Documents/instabot/examples/config/nielzdronepilot_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 117.0.0.28.123 Android (28/9.0; 420dpi; 1080x1920; OnePlus; ONEPLUS A3003; OnePlus3; qcom; en_US; 180322800)
+- phone_id=d8e48d7c-5f15-4e09-a0f8-a40b2dbe0ba6
+- uuid=90e12c41-c9ab-4c32-be7c-33db58508871
+- client_session_id=f31200c9-093d-492d-a105-6c1f45ca71d5
+- device_id=android-de3955d33540d9b9
+2020-03-07 11:49:44,226 - instabot version: 0.107.0 (api_login) - INFO - LOGIN FLOW! Just logged-in: False
+2020-03-07 11:49:46,600 - instabot version: 0.107.0 (api) - ERROR - Request returns 403 error!
+2020-03-07 11:49:48,912 - instabot version: 0.107.0 (api) - ERROR - Request returns 403 error!
+2020-03-07 11:49:48,912 - instabot version: 0.107.0 (api) - INFO - Login flow failed, the cookie is broken. Relogin again.
+2020-03-07 11:49:48,913 - instabot version: 0.107.0 (api_login) - INFO - Recovery from /Users/niels/Documents/instabot/examples/config/nielzdronepilot_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 117.0.0.28.123 Android (28/9.0; 420dpi; 1080x1920; OnePlus; ONEPLUS A3003; OnePlus3; qcom; en_US; 180322800)
+- phone_id=d8e48d7c-5f15-4e09-a0f8-a40b2dbe0ba6
+- uuid=90e12c41-c9ab-4c32-be7c-33db58508871
+- client_session_id=f31200c9-093d-492d-a105-6c1f45ca71d5
+- device_id=android-de3955d33540d9b9
+2020-03-07 11:49:48,913 - instabot version: 0.107.0 (api_login) - INFO - PRE-LOGIN FLOW!... 
+2020-03-07 11:50:03,309 - instabot version: 0.107.0 (api) - INFO - Logged-in successfully as 'nielzdronepilot'!
+2020-03-07 11:50:03,312 - instabot version: 0.107.0 (api_login) - INFO - LOGIN FLOW! Just logged-in: True
+2020-03-07 11:50:51,669 - instabot version: 0.107.0 (bot) - INFO - Bot stopped. Worked: 0:03:06.270771
+2020-03-07 11:50:51,671 - instabot version: 0.107.0 (bot) - INFO - Total requests: 23
+2020-03-07 11:50:51,672 - instabot version: 0.107.0 (bot) - INFO - Total requests: 23

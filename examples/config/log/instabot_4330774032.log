@@ -1,0 +1,7 @@
+2020-02-15 14:34:06,553 - instabot version: 0.107.0 (bot) - INFO - Instabot version: 0.107.0 Started
+2020-02-15 14:34:06,554 - instabot version: 0.107.0 (api_login) - INFO - PRE-LOGIN FLOW!... 
+2020-02-15 14:34:19,320 - instabot version: 0.107.0 (api) - INFO - Logged-in successfully as 'dronevlieger'!
+2020-02-15 14:34:19,320 - instabot version: 0.107.0 (api_login) - INFO - LOGIN FLOW! Just logged-in: True
+2020-02-15 14:34:56,247 - instabot version: 0.107.0 (bot_like) - INFO - Going to like media with hashtag #dronevlieger.
+2020-02-15 14:35:03,100 - instabot version: 0.107.0 (bot_like) - INFO - Going to like 86 medias.
+2020-02-15 15:32:39,501 - instabot version: 0.107.0 (bot) - INFO - Total requests: 65

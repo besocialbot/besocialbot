@@ -1,0 +1,12 @@
+2020-02-15 20:06:58,445 - instabot version: 0.107.0 (bot) - INFO - Instabot version: 0.107.0 Started
+2020-02-15 20:06:58,445 - instabot version: 0.107.0 (api_login) - INFO - Not yet logged in starting: PRE-LOGIN FLOW!
+2020-02-15 20:07:11,319 - instabot version: 0.107.0 (api) - INFO - Logged-in successfully as 'dronevlieger'!
+2020-02-15 20:07:11,319 - instabot version: 0.107.0 (api_login) - INFO - LOGIN FLOW! Just logged-in: True
+2020-02-15 20:07:42,636 - instabot version: 0.107.0 (api_login) - ERROR - Exception raised: get_username_info() missing 1 required positional argument: 'user_id'
+Traceback (most recent call last):
+  File "/Users/niels/Documents/instabot/examples/../instabot/api/api_login.py", line 154, in login_flow
+    check_flow.append(self.get_username_info())
+TypeError: get_username_info() missing 1 required positional argument: 'user_id'
+
+2020-02-15 20:07:42,637 - instabot version: 0.107.0 (bot_follow) - INFO - Follow followers of: fromwhereidrone
+2020-02-15 20:07:49,242 - instabot version: 0.107.0 (bot) - INFO - Total requests: 30

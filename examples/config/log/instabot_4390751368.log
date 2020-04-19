@@ -1,0 +1,15 @@
+2020-02-15 20:04:34,451 - instabot version: 0.107.0 (bot) - INFO - Instabot version: 0.107.0 Started
+2020-02-15 20:04:34,451 - instabot version: 0.107.0 (api_login) - INFO - Not yet logged in starting: PRE-LOGIN FLOW!
+2020-02-15 20:04:46,930 - instabot version: 0.107.0 (api) - INFO - Logged-in successfully as 'dronevlieger'!
+2020-02-15 20:04:46,931 - instabot version: 0.107.0 (api_login) - INFO - LOGIN FLOW! Just logged-in: True
+2020-02-15 20:05:15,440 - instabot version: 0.107.0 (api) - ERROR - Request returns 400 error!
+2020-02-15 20:05:15,440 - instabot version: 0.107.0 (api) - INFO - Instagram's error message: missing param
+2020-02-15 20:05:15,440 - instabot version: 0.107.0 (api) - INFO - Instagram's error message: {}
+2020-02-15 20:05:17,678 - instabot version: 0.107.0 (api_login) - ERROR - Exception raised: get_username_info() missing 1 required positional argument: 'user_id'
+Traceback (most recent call last):
+  File "/Users/niels/Documents/instabot/examples/../instabot/api/api_login.py", line 151, in login_flow
+    check_flow.append(self.get_username_info())
+TypeError: get_username_info() missing 1 required positional argument: 'user_id'
+
+2020-02-15 20:05:17,689 - instabot version: 0.107.0 (bot_follow) - INFO - Follow followers of: fromwhereidrone
+2020-02-15 20:05:20,237 - instabot version: 0.107.0 (bot) - INFO - Total requests: 27

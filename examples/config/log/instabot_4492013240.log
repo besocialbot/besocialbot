@@ -1,0 +1,9 @@
+2020-02-15 19:50:51,974 - instabot version: 0.107.0 (bot) - INFO - Instabot version: 0.107.0 Started
+2020-02-15 19:50:51,974 - instabot version: 0.107.0 (api_login) - INFO - Not yet logged in starting: PRE-LOGIN FLOW!
+2020-02-15 19:51:09,279 - instabot version: 0.107.0 (api) - INFO - Logged-in successfully as 'dronevlieger'!
+2020-02-15 19:51:09,279 - instabot version: 0.107.0 (api_login) - INFO - LOGIN FLOW! Just logged-in: True
+2020-02-15 19:51:11,818 - instabot version: 0.107.0 (api) - ERROR - Request returns 405 error!
+2020-02-15 19:51:11,818 - instabot version: 0.107.0 (api) - ERROR - Error checking for `feedback_required`, response text is not JSON
+2020-02-15 19:51:11,818 - instabot version: 0.107.0 (api) - INFO - Full Response: <Response [405]>
+2020-02-15 19:51:11,818 - instabot version: 0.107.0 (api) - INFO - Response Text: 
+2020-02-15 19:51:11,818 - instabot version: 0.107.0 (api) - ERROR - Error unknown send request

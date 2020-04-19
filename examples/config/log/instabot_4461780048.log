@@ -1,0 +1,21 @@
+2020-02-15 19:46:57,182 - instabot version: 0.107.0 (bot) - INFO - Instabot version: 0.107.0 Started
+2020-02-15 19:46:57,183 - instabot version: 0.107.0 (api_login) - INFO - Not yet logged in starting: PRE-LOGIN FLOW!
+2020-02-15 19:47:10,951 - instabot version: 0.107.0 (api) - INFO - Logged-in successfully as 'dronevlieger'!
+2020-02-15 19:47:10,951 - instabot version: 0.107.0 (api_login) - INFO - LOGIN FLOW! Just logged-in: True
+2020-02-15 19:47:48,013 - instabot version: 0.107.0 (api) - ERROR - Request returns 405 error!
+2020-02-15 19:47:48,014 - instabot version: 0.107.0 (api) - ERROR - Error checking for `feedback_required`, response text is not JSON
+2020-02-15 19:47:48,014 - instabot version: 0.107.0 (api) - INFO - Full Response: <Response [405]>
+2020-02-15 19:47:48,014 - instabot version: 0.107.0 (api) - INFO - Response Text: 
+2020-02-15 19:47:48,014 - instabot version: 0.107.0 (api) - ERROR - Error unknown send request
+2020-02-15 19:47:48,015 - instabot version: 0.107.0 (api_login) - ERROR - Exception raised: 'dict' object has no attribute 'encode'
+Traceback (most recent call last):
+  File "/Users/niels/Documents/instabot/examples/../instabot/api/api_login.py", line 134, in login_flow
+    check_flow.append(self.log_resurrect_attribution())
+  File "/Users/niels/Documents/instabot/examples/../instabot/api/api.py", line 1766, in log_resurrect_attribution
+    data = self.generate_signature(data)
+  File "/Users/niels/Documents/instabot/examples/../instabot/api/api.py", line 1302, in generate_signature
+    + urllib.parse.quote(data)
+AttributeError: 'dict' object has no attribute 'encode'
+
+2020-02-15 19:47:48,031 - instabot version: 0.107.0 (bot_follow) - INFO - Follow followers of: fromwhereidrone
+2020-02-15 19:47:51,821 - instabot version: 0.107.0 (bot) - INFO - Total requests: 24

@@ -1,0 +1,15 @@
+2020-02-15 16:47:07,789 - instabot version: 0.107.0 (bot) - INFO - Instabot version: 0.107.0 Started
+2020-02-15 16:47:07,790 - instabot version: 0.107.0 (api_login) - INFO - Recovery from /Users/niels/Documents/instabot/examples/config/dronevlieger_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 117.0.0.28.123 Android (28/9.0; 420dpi; 1080x1920; OnePlus; ONEPLUS A3003; OnePlus3; qcom; en_US; 180322800)
+- phone_id=1ab388b3-4401-467d-9143-7426ae315183
+- uuid=f002d85a-af71-448c-9ba8-0b4d8cbdbf89
+- client_session_id=65740ca2-6fb0-4821-aa23-0e8d56efd6bf
+- device_id=android-17757404dd6a9a97
+2020-02-15 16:47:07,790 - instabot version: 0.107.0 (api_login) - INFO - LOGIN FLOW! Just logged-in: False
+2020-02-15 16:47:29,009 - instabot version: 0.107.0 (api) - INFO - Logged-in successfully as 'dronevlieger'!
+2020-02-15 16:47:29,009 - instabot version: 0.107.0 (bot_follow) - INFO - Follow followers of: fromwhereidrone
+2020-02-15 16:47:36,465 - instabot version: 0.107.0 (api) - ERROR - Request returns 429 error!
+2020-02-15 16:47:36,465 - instabot version: 0.107.0 (api) - WARNING - That means 'too many requests'. I'll go to sleep for 5 minutes.
+2020-02-15 16:52:38,947 - instabot version: 0.107.0 (api) - ERROR - Request returns 429 error!
+2020-02-15 16:52:38,953 - instabot version: 0.107.0 (api) - WARNING - That means 'too many requests'. I'll go to sleep for 10 minutes.
+2020-02-15 16:55:35,250 - instabot version: 0.107.0 (bot) - INFO - Total requests: 357

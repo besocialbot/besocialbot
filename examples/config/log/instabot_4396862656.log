@@ -1,0 +1,11 @@
+2020-02-15 19:17:06,914 - instabot version: 0.107.0 (bot) - INFO - Instabot version: 0.107.0 Started
+2020-02-15 19:17:06,915 - instabot version: 0.107.0 (api_login) - INFO - Recovery from /Users/niels/Documents/instabot/examples/config/dronevlieger_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 117.0.0.28.123 Android (28/9.0; 420dpi; 1080x1920; OnePlus; ONEPLUS A3003; OnePlus3; qcom; en_US; 180322800)
+- phone_id=7a35d307-4fb3-476f-a2f1-f9fee8f986e4
+- uuid=79eeb058-90d3-4232-b6c6-03ae20524b7b
+- client_session_id=b66fb9d2-0143-4aef-b414-41f797e2b529
+- device_id=android-17757404dd6a9a97
+2020-02-15 19:17:06,915 - instabot version: 0.107.0 (api_login) - INFO - LOGIN FLOW! Just logged-in: False
+2020-02-15 19:17:13,605 - instabot version: 0.107.0 (api) - INFO - Logged-in successfully as 'dronevlieger'!
+2020-02-15 19:17:13,610 - instabot version: 0.107.0 (bot_follow) - INFO - Follow followers of: fromwhereidrone
+2020-02-15 19:17:15,251 - instabot version: 0.107.0 (bot) - INFO - Total requests: 16

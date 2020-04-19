@@ -1,0 +1,10 @@
+2020-02-15 19:23:14,908 - instabot version: 0.107.0 (bot) - INFO - Instabot version: 0.107.0 Started
+2020-02-15 19:23:14,909 - instabot version: 0.107.0 (api_login) - INFO - Not yet logged in starting: PRE-LOGIN FLOW!
+2020-02-15 19:23:28,508 - instabot version: 0.107.0 (api) - INFO - Logged-in successfully as 'dronevlieger'!
+2020-02-15 19:23:28,508 - instabot version: 0.107.0 (api_login) - INFO - LOGIN FLOW! Just logged-in: True
+2020-02-15 19:23:41,371 - instabot version: 0.107.0 (api) - ERROR - Request returns 400 error!
+2020-02-15 19:23:41,371 - instabot version: 0.107.0 (api) - INFO - Instagram's error message: Invalid reel id list
+2020-02-15 19:23:41,371 - instabot version: 0.107.0 (api) - INFO - Instagram's error message: {}
+2020-02-15 19:23:42,602 - instabot version: 0.107.0 (api) - ERROR - Request returns 400 error!
+2020-02-15 19:23:42,602 - instabot version: 0.107.0 (api) - INFO - Instagram's error message: no token provided
+2020-02-15 19:23:42,602 - instabot version: 0.107.0 (api) - INFO - Instagram's error message: {}

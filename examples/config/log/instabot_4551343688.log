@@ -1,0 +1,15 @@
+2020-03-07 17:29:28,225 - instabot version: 0.113.0 (bot) - INFO - Instabot version: 0.113.0 Started
+2020-03-07 17:29:28,225 - instabot version: 0.113.0 (bot) - DEBUG - Bot imported from /Users/niels/Documents/instabot/examples/../instabot/bot/bot.py
+2020-03-07 17:29:28,887 - instabot version: 0.113.0 (api_login) - INFO - Not yet logged in starting: PRE-LOGIN FLOW!
+2020-03-07 17:29:29,243 - instabot version: 0.113.0 (api) - DEBUG - POST to endpoint: accounts/contact_point_prefill/ returned response: <Response [200]>
+2020-03-07 17:29:29,482 - instabot version: 0.113.0 (api) - DEBUG - POST to endpoint: qe/sync/ returned response: <Response [200]>
+2020-03-07 17:29:29,717 - instabot version: 0.113.0 (api) - DEBUG - POST to endpoint: launcher/sync/ returned response: <Response [200]>
+2020-03-07 17:29:29,954 - instabot version: 0.113.0 (api) - DEBUG - POST to endpoint: accounts/get_prefill_candidates/ returned response: <Response [200]>
+2020-03-07 17:29:31,575 - instabot version: 0.113.0 (api) - DEBUG - POST to endpoint: accounts/login/ returned response: <Response [400]>
+2020-03-07 17:29:31,575 - instabot version: 0.113.0 (api) - DEBUG - Responsecode indicates error; response content: b'{"message": "challenge_required", "challenge": {"url": "https://i.instagram.com/challenge/3149016955/7ovZwYKD2c/", "api_path": "/challenge/3149016955/7ovZwYKD2c/", "hide_webview_header": true, "lock": true, "logout": false, "native_flow": true}, "status": "fail", "error_type": "checkpoint_challenge_required"}'
+2020-03-07 17:29:31,575 - instabot version: 0.113.0 (api) - ERROR - Request returns 400 error!
+2020-03-07 17:29:31,576 - instabot version: 0.113.0 (api) - INFO - Instagram's error message: challenge_required
+2020-03-07 17:29:31,576 - instabot version: 0.113.0 (api) - INFO - Error type: checkpoint_challenge_required
+2020-03-07 17:31:05,042 - instabot version: 0.113.0 (bot) - INFO - Bot stopped. Worked: 0:01:36.818164
+2020-03-07 17:31:05,043 - instabot version: 0.113.0 (bot_checkpoint) - DEBUG - Saving Checkpoint file to: /Users/niels/Documents/instabot/examples/config/nielzdronepilot.checkpoint
+2020-03-07 17:31:05,044 - instabot version: 0.113.0 (bot) - INFO - Total requests: 5

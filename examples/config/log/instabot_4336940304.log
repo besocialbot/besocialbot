@@ -1,0 +1,33 @@
+2020-02-22 11:38:22,538 - instabot version: 0.109.0 (bot) - INFO - Instabot version: 0.109.0 Started
+2020-02-22 11:38:22,538 - instabot version: 0.109.0 (bot) - DEBUG - Bot imported from /Users/niels/Documents/instabot/examples/../instabot/bot/bot.py
+2020-02-22 11:38:23,646 - instabot version: 0.109.0 (api_login) - DEBUG - Loading cookies
+2020-02-22 11:38:23,647 - instabot version: 0.109.0 (api_login) - DEBUG - Loading uuids
+2020-02-22 11:38:23,647 - instabot version: 0.109.0 (api_login) - INFO - Recovery from /Users/niels/Documents/instabot/examples/config/dronevlieger_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 117.0.0.28.123 Android (28/9.0; 420dpi; 1080x1920; OnePlus; ONEPLUS A3003; OnePlus3; qcom; en_US; 180322800)
+- phone_id=d936e783-96b0-4684-b21b-2afb58ecfcf7
+- uuid=122b7682-5cd8-41d4-a8db-31a23d014db0
+- client_session_id=bdef51f8-9da5-43c9-8796-4c66a73ef6f1
+- device_id=android-17757404dd6a9a97
+2020-02-22 11:38:23,647 - instabot version: 0.109.0 (api_login) - INFO - LOGIN FLOW! Just logged-in: False
+2020-02-22 11:38:25,366 - instabot version: 0.109.0 (api) - DEBUG - POST to endpoint: feed/timeline/ returned response: <Response [200]>
+2020-02-22 11:38:26,868 - instabot version: 0.109.0 (api) - DEBUG - POST to endpoint: feed/reels_tray/ returned response: <Response [200]>
+2020-02-22 11:38:26,878 - instabot version: 0.109.0 (api) - INFO - Logged-in successfully as 'dronevlieger'!
+2020-02-22 11:38:26,878 - instabot version: 0.109.0 (bot_checkpoint) - DEBUG - Loading Checkpoint file from: /Users/niels/Documents/instabot/examples/config/dronevlieger.checkpoint
+2020-02-22 11:38:44,704 - instabot version: 0.109.0 (multi_script_CLI) - ERROR - coercing to Unicode: need string or buffer, list found
+Traceback (most recent call last):
+  File "multi_script_CLI.py", line 662, in <module>
+    menu()
+  File "multi_script_CLI.py", line 243, in menu
+    menu_setting()
+  File "multi_script_CLI.py", line 569, in menu_setting
+    parameter_setting()
+  File "multi_script_CLI.py", line 149, in parameter_setting
+    with open(settings) as f:
+TypeError: coercing to Unicode: need string or buffer, list found
+2020-02-22 11:38:44,704 - instabot version: 0.109.0 (multi_script_CLI) - DEBUG - error, retry
+2020-02-22 11:39:43,615 - instabot version: 0.109.0 (api) - DEBUG - POST to endpoint: accounts/logout/ returned response: <Response [200]>
+2020-02-22 11:39:43,616 - instabot version: 0.109.0 (bot) - INFO - Bot stopped. Worked: 1:00:25.702818
+2020-02-22 11:39:43,616 - instabot version: 0.109.0 (bot_checkpoint) - DEBUG - Saving Checkpoint file to: /Users/niels/Documents/instabot/examples/config/dronevlieger.checkpoint
+2020-02-22 11:39:43,617 - instabot version: 0.109.0 (bot) - INFO - Total requests: 80
+2020-02-22 11:39:43,617 - instabot version: 0.109.0 (bot_checkpoint) - DEBUG - Saving Checkpoint file to: /Users/niels/Documents/instabot/examples/config/dronevlieger.checkpoint
+2020-02-22 11:39:43,618 - instabot version: 0.109.0 (bot) - INFO - Total requests: 80
